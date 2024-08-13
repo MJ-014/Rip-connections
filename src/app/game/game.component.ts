@@ -18,7 +18,6 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-
   // constructor(public cookieGuy: CookieService) { }
 
   Math = Math;
@@ -97,7 +96,7 @@ export class GameComponent {
     for (let answer of this.answers) {
       copyText += '\n' + answer.join('');
     }
-    copyText += "\n\nWebsiteLink"
+    copyText += "\n\nhttps://mj-014.github.io/Rip-connections/"
     navigator.clipboard.writeText(copyText);
     this.isCopied = true;
     setTimeout(() => { this.isCopied = false; }, 2000)
@@ -182,8 +181,9 @@ export class GameComponent {
   }
 
   playlist() {
-    this.playlistHref = 'https://youtube.com/watch_videos?video_ids='
-    for (let item of this.todayData.items) {
+    this.playlistHref = 'https://youtube.com/watch_videos?video_ids=';
+    let temp: any = this.shuffleLink(this.todayData.items);
+    for (let item of temp) {
       this.playlistHref += `${item.tn},`
     }
   }
@@ -225,6 +225,17 @@ export class GameComponent {
       return true;
     }
     return false;
+  }
+
+  shuffleLink(array: any): any {
+    let currentIndex = array.length;
+    while (currentIndex != 0) {
+      let randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+      [array[currentIndex], array[randomIndex]] = [
+        array[randomIndex], array[currentIndex]];
+    }
+    return array;
   }
 
   shuffle(x: number = 4): void {
