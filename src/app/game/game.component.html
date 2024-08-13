@@ -2,14 +2,14 @@
 <div class="pop-up" [class.pop-up-animated]="isCopied">Copied to clipboard</div>
 
 <div id="app-game">
-    <a [href]="playlistHref" target="_blank" id="playlist">
-        <div id="playlist-logo"><img src="./youtube_logo.svg"></div>
-        <div id="playlist-text">Today's<br>Playlist</div>
-    </a>
-
     <div id="creator">Made by Cavie and MJ014</div>
 
     <div id="game-window">
+        <a [href]="playlistHref" target="_blank" id="playlist">
+            <div id="playlist-logo"><img src="./youtube_logo.svg"></div>
+            <div id="playlist-text">Today's<br>Playlist</div>
+        </a>
+
         @for (doneRow of doneRows; track $index) {
         <div class="done-items-row" [class.done-items-row-open]="dropDownsOpened[$index]"
             [style.background-color]="doneRowColors[doneRow[0].cat_id].color">

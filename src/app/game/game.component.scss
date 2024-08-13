@@ -28,6 +28,26 @@
 }
 
 #game-window {
+    #playlist {
+        display: flex;
+        text-decoration: none !important;
+        margin: 5px;
+    
+        #playlist-text {
+            color: white;
+            font-size: 15px;
+            padding: 5px;
+        }
+    
+        #playlist-logo {
+            padding-top: 2px;
+    
+            img {
+                height: 50px;
+            }
+        }
+    }
+
     .item-row {
         display: flex;
         width: 850px;
@@ -181,28 +201,6 @@
                 margin: 0 5px;
                 width: 70px;
             }
-        }
-    }
-}
-
-#playlist {
-    display: flex;
-    text-decoration: none !important;
-    position: absolute;
-    right: 0;
-    margin: 5px;
-
-    #playlist-text {
-        color: white;
-        font-size: 12px;
-        padding: 5px;
-    }
-
-    #playlist-logo {
-        padding-top: 2px;
-
-        img {
-            height: 50px;
         }
     }
 }

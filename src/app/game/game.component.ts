@@ -1,8 +1,12 @@
 import { Component } from '@angular/core';
 // import { CookieService } from 'ngx-cookie-service';
-import * as itemsData from '../../../public/items.json';
-import { ConnectionItem } from '../getItems/connectionItemInterface';
-import { GetItemsService } from '../getItems/get-items.service';
+
+interface ConnectionItem {
+  id: number,
+  title: string,
+  tn: string,
+  cat_id: number;
+}
 
 @Component({
   selector: 'app-game',
@@ -13,7 +17,7 @@ import { GetItemsService } from '../getItems/get-items.service';
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-constructor(/*public cookieGuy: CookieService,*/ private getItems: GetItemsService) { }
+// constructor(public cookieGuy: CookieService) { }
 
   Math = Math;
   date = new Date(Date.now());
@@ -21,8 +25,8 @@ constructor(/*public cookieGuy: CookieService,*/ private getItems: GetItemsServi
   doneRows: ConnectionItem[][] = [];
   rows: ConnectionItem[][] = [[], [], [], []];
   activeItems: ConnectionItem[] = [];
-  itemsData = {};
-  todayData = itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof itemsData];
+  itemsData: any = {};
+  todayData: any = {};
   answers: string[][] = [];
   wikiIconPosition: { x: number, y: number } = { x: 0, y: 0 };
 
@@ -38,7 +42,7 @@ constructor(/*public cookieGuy: CookieService,*/ private getItems: GetItemsServi
   playlistHref: string = '';
   hovers: string = '';
 
-  ngOnInit() {
+  async ngOnInit() {
     // if (this.cookieGuy.get('beaten')) {
     //   this.beaten = true;
     //   let leftCats: ConnectionItem[][] = [[], [], [], []];
@@ -60,7 +64,10 @@ constructor(/*public cookieGuy: CookieService,*/ private getItems: GetItemsServi
     //   this.beaten = false;
     // }
 
-    this.itemsData = this.getItems.GETItems();
+    var response = await fetch('https://raw.githubusercontent.com/MJ-014/Rip-connections/main/docs/items.json', { method: 'GET' });
+    this.itemsData = await response.json();
+    console.log(this.itemsData)
+    this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
 
     for (let item of this.todayData.items) {
       this.rows[~~((item.id) / 4)]?.push(item);
@@ -90,7 +97,7 @@ constructor(/*public cookieGuy: CookieService,*/ private getItems: GetItemsServi
 
   share() {
     let copyText: string = "";
-    copyText += "Rip Connection " + (this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof itemsData) + '\n';
+    copyText += `Rip Connection ${String(this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData)} \n`;
     for (let answer of this.answers) {
       copyText += '\n' + answer.join('');
     }
