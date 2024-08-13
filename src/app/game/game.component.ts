@@ -97,7 +97,7 @@ export class GameComponent {
     for (let answer of this.answers) {
       copyText += '\n' + answer.join('');
     }
-    copyText += "\n\nWebsiteLink"
+    copyText += "\n\nhttps://mj-014.github.io/Rip-connections/"
     navigator.clipboard.writeText(copyText);
     this.isCopied = true;
     setTimeout(() => { this.isCopied = false; }, 2000)
@@ -183,7 +183,8 @@ export class GameComponent {
 
   playlist() {
     this.playlistHref = 'https://youtube.com/watch_videos?video_ids='
-    for (let item of this.todayData.items) {
+    let temp: any = this.shuffleLinks(this.todayData.items)
+    for (let item of temp) {
       this.playlistHref += `${item.tn},`
     }
   }
@@ -256,4 +257,17 @@ export class GameComponent {
 
     this.rows = result;
   }
+
+    shuffleLinks(array: any): any {
+        let currentIndex = array.length,  randomIndex;
+
+        while (currentIndex != 0) {
+            randomIndex = Math.floor(Math.random() * currentIndex);
+            currentIndex--;
+            [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+        }
+
+        return array;
+    };
+
 }
