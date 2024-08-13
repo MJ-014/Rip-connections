@@ -1,13 +1,8 @@
 import { Component } from '@angular/core';
 // import { CookieService } from 'ngx-cookie-service';
 import * as itemsData from '../../../public/items.json';
-
-interface ConnectionItem {
-  id: number,
-  title: string,
-  tn: string,
-  cat_id: number;
-}
+import { ConnectionItem } from '../getItems/connectionItemInterface';
+import { GetItemsService } from '../getItems/get-items.service';
 
 @Component({
   selector: 'app-game',
@@ -18,7 +13,7 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-  // constructor(public cookieGuy: CookieService) { }
+constructor(/*public cookieGuy: CookieService,*/ private getItems: GetItemsService) { }
 
   Math = Math;
   date = new Date(Date.now());
@@ -26,6 +21,7 @@ export class GameComponent {
   doneRows: ConnectionItem[][] = [];
   rows: ConnectionItem[][] = [[], [], [], []];
   activeItems: ConnectionItem[] = [];
+  itemsData = {};
   todayData = itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof itemsData];
   answers: string[][] = [];
   wikiIconPosition: { x: number, y: number } = { x: 0, y: 0 };
@@ -63,6 +59,8 @@ export class GameComponent {
     // } else {
     //   this.beaten = false;
     // }
+
+    this.itemsData = this.getItems.GETItems();
 
     for (let item of this.todayData.items) {
       this.rows[~~((item.id) / 4)]?.push(item);
@@ -176,7 +174,7 @@ export class GameComponent {
   }
 
   onItemRightClick() {
-    window.open("https://siivagunner.fandom.com/wiki/" + this.hovers.replace("#", ""), '_blank');
+    window.open("https://siivagunner.fandom.com/wiki/" + encodeURIComponent(this.hovers).replace("#", ""), '_blank');
     return false;
   }
 
