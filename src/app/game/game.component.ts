@@ -183,8 +183,7 @@ export class GameComponent {
 
   playlist() {
     this.playlistHref = 'https://youtube.com/watch_videos?video_ids='
-    let temp: any = this.shuffleLinks(this.todayData.items)
-    for (let item of temp) {
+    for (let item of this.todayData.items) {
       this.playlistHref += `${item.tn},`
     }
   }
@@ -257,17 +256,4 @@ export class GameComponent {
 
     this.rows = result;
   }
-
-    shuffleLinks(array: any): any {
-        let currentIndex = array.length,  randomIndex;
-
-        while (currentIndex != 0) {
-            randomIndex = Math.floor(Math.random() * currentIndex);
-            currentIndex--;
-            [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
-        }
-
-        return array;
-    };
-
 }
