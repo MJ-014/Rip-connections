@@ -97,7 +97,7 @@ export class GameComponent {
 
   share() {
     let copyText: string = "";
-    copyText += `Rip Connection ${String(this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData)} \n`;
+    copyText += `Rip Connection ${String(this.date.getUTCDate() + '/' + (this.date.getUTCMonth() + 1) + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData)} \n`;
     for (let answer of this.answers) {
       copyText += '\n' + answer.join('');
     }
