@@ -32,7 +32,7 @@
 
     "15/7/2024": {
         "items": [
-            {"id": 0, "title": "Limestone Cave ...for Icecap - Sonic Adventure", "tn": "HiaHl6Zx9z4", "cat_id": 0},
+            {"id": 0, "title": "Slopping Spree - Splatoon 3", "tn": "QfXUGQulGRw", "cat_id": 0},
             {"id": 1, "title": "Rival Battle: Metal Sonic \"Stardust Speedway\" - Sonic X Shadow Generations", "tn": "m9g9alS3PpM", "cat_id": 0},
             {"id": 2, "title": "No Flights Out (Flying Machine) (Puzzler's Pack Update) - Shovel Knight Pocket Dungeon", "tn": "yOo7F1FqnqM", "cat_id": 0},
             {"id": 3, "title": "Cyber Space 3-4: Constructure - Sonic Frontiers", "tn": "mYi2ynbSxWw", "cat_id": 0},
@@ -86,9 +86,9 @@
 
         "groups": [
             {"id": 0, "title": "Rips featuring The Penis (Eek!)"},
-            {"id": 1, "title": "Rips featured on \"Legends of the Western Sunset\" album"},
-            {"id": 2, "title": "Doofenshmirtz Evil Incorporated Takeover rips"},
-            {"id": 3, "title": "Rips with visual elements"}
+            {"id": 1, "title": "Rips featured on \"Legends of the Western Sunset\" Album"},
+            {"id": 2, "title": "Doofenshmirtz Evil Incorporated Takeover Rips"},
+            {"id": 3, "title": "Rips with Visual Elements"}
         ]
     },
     
@@ -116,9 +116,9 @@
         ],
 
         "groups": [
-            {"id": 0, "title": "Event starter rips"},
-            {"id": 1, "title": "Quadruplet rips"},
-            {"id": 2, "title": "Fake games"},
+            {"id": 0, "title": "Event Starter Rips"},
+            {"id": 1, "title": "Quadruplet Rips"},
+            {"id": 2, "title": "Fake Games"},
             {"id": 3, "title": "Rips featuring ERB"}
         ]
     },
@@ -147,10 +147,10 @@
         ],
 
         "groups": [
-            {"id": 0, "title": "Rips that were remastered"},
-            {"id": 1, "title": "Tracks that received a fusion collab"},
-            {"id": 2, "title": "Rips with composer comments"},
-            {"id": 3, "title": "Toby Fox rips"}
+            {"id": 0, "title": "Rips that Were Remastered"},
+            {"id": 1, "title": "Tracks that Received a Fusion Collab"},
+            {"id": 2, "title": "Rips with Composer Comments"},
+            {"id": 3, "title": "Toby Fox Rips"}
         ]
     },
     
@@ -179,40 +179,40 @@
 
         "groups": [
             {"id": 0, "title": "Rips featuring Mashup Week"},
-            {"id": 1, "title": "Rips uploaded on August 18th"},
-            {"id": 2, "title": "One-Winged arrangement rips"},
-            {"id": 3, "title": "Anniversary rips"}
+            {"id": 1, "title": "Rips Uploaded on August 18th"},
+            {"id": 2, "title": "One-Winged Arrangement Rips"},
+            {"id": 3, "title": "Anniversary Rips"}
         ]
     },
     
     "20/7/2024": {
         "items": [
-            {"id": 0, "title": "", "tn": "", "cat_id": 0},
-            {"id": 1, "title": "", "tn": "", "cat_id": 0},
-            {"id": 2, "title": "", "tn": "", "cat_id": 0},
-            {"id": 3, "title": "", "tn": "", "cat_id": 0},
+            {"id": 0, "title": "Fireflies", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "Gangnam Style", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "Bangarang", "tn": "", "cat_id": 0},
+            {"id": 3, "title": "Uptown Funk", "tn": "", "cat_id": 0},
             
-            {"id": 4, "title": "", "tn": "", "cat_id": 1},
-            {"id": 5, "title": "", "tn": "", "cat_id": 1},
-            {"id": 6, "title": "", "tn": "", "cat_id": 1},
-            {"id": 7, "title": "", "tn": "", "cat_id": 1},
+            {"id": 4, "title": "The Penis (Eek!)", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "Overdrive", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "Unreeeal superhero 3", "tn": "", "cat_id": 1},
+            {"id": 7, "title": "Happy Happy Christmas", "tn": "", "cat_id": 1},
 
-            {"id": 8, "title": "", "tn": "", "cat_id": 2},
-            {"id": 9, "title": "", "tn": "", "cat_id": 2},
-            {"id": 10, "title": "", "tn": "", "cat_id": 2},
-            {"id": 11, "title": "", "tn": "", "cat_id": 2},
+            {"id": 8, "title": "the new rick rolld", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "Differences™", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "The Lick", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "Nerf This!", "tn": "", "cat_id": 2},
             
-            {"id": 12, "title": "", "tn": "", "cat_id": 3},
-            {"id": 13, "title": "", "tn": "", "cat_id": 3},
-            {"id": 14, "title": "", "tn": "", "cat_id": 3},
-            {"id": 15, "title": "", "tn": "", "cat_id": 3}
+            {"id": 12, "title": "Eggnog", "tn": "", "cat_id": 3},
+            {"id": 13, "title": "Angry Joe", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "9+10=21", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "Damn Daniel", "tn": "", "cat_id": 3}
         ],
 
         "groups": [
-            {"id": 0, "title": ""},
-            {"id": 1, "title": ""},
-            {"id": 2, "title": ""},
-            {"id": 3, "title": ""}
+            {"id": 0, "title": "SoundClown Jokes"},
+            {"id": 1, "title": "Jokes Originating from Tracker Music"},
+            {"id": 2, "title": "Short Jingle Jokes"},
+            {"id": 3, "title": "Jokes featuring Real Life People"}
         ]
     },
     
