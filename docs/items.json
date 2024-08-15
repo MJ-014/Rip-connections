@@ -63,30 +63,30 @@
     
     "16/7/2024": {
         "items": [
-            {"id": 0, "title": "Introduction (Famicom Disk System) - Stinger", "tn": "dG3UxfESCXA", "cat_id": 0},
-            {"id": 1, "title": "Duel Start - The Town with No Name", "tn": "JH3mTSA3uG8", "cat_id": 0},
-            {"id": 2, "title": "Title Screen / Pac-Man Theater (NES) - Pac-Mania", "tn": "9vjOLx4heuw", "cat_id": 0},
-            {"id": 3, "title": "Green Greens (JP Version) - Kirby: Nightmare in Dream Land", "tn": "jrlRG45yRvU", "cat_id": 0},
+            {"id": 4, "title": "Robin (Blockrock) - Iconoclasts", "tn": "hPoAWgzse3E", "cat_id": 0},
+            {"id": 5, "title": "Vagabounce - Homestuck", "tn": "RXU_PrFTWvc", "cat_id": 0},
+            {"id": 6, "title": "Ashter's Theme (Demo) - Repugnant Bounty", "tn": "onx6GVmVnr8", "cat_id": 0},
+            {"id": 7, "title": "Glass - Po prostu Łoś", "tn": "QbYZlj3tS6Y", "cat_id": 0},
             
-            {"id": 4, "title": "Robin (Blockrock) - Iconoclasts", "tn": "hPoAWgzse3E", "cat_id": 1},
-            {"id": 5, "title": "Vagabounce - Homestuck", "tn": "RXU_PrFTWvc", "cat_id": 1},
-            {"id": 6, "title": "Ashter's Theme (Demo) - Repugnant Bounty", "tn": "onx6GVmVnr8", "cat_id": 1},
-            {"id": 7, "title": "Glass - Po prostu Łoś", "tn": "QbYZlj3tS6Y", "cat_id": 1},
+            {"id": 0, "title": "Introduction (Famicom Disk System) - Stinger", "tn": "dG3UxfESCXA", "cat_id": 1},
+            {"id": 1, "title": "Slashers - Action 52", "tn": "8tS3j6gAqkQ", "cat_id": 1},
+            {"id": 2, "title": "Title Theme (Alternate Mix) - DuckTales", "tn": "wFKwpvVYS_k", "cat_id": 1},
+            {"id": 3, "title": "Green Greens (JP Version) - Kirby: Nightmare in Dream Land", "tn": "jrlRG45yRvU", "cat_id": 1},
 
             {"id": 8, "title": "Egg Reverie - Egg Reverie Zone (Short Version) - Sonic Mania", "tn": "1mHC2bWiSYY", "cat_id": 2},
             {"id": 9, "title": "Miss! - Kirby: Nightmare in Dream Land", "tn": "yG2pLW2_w24", "cat_id": 2},
             {"id": 10, "title": "Perry the Platypus Theme - Phineas and Ferb: Quest for Cool Stuff", "tn": "yYOqacA1yyo", "cat_id": 2},
             {"id": 11, "title": "Mix-a-Mug - Super Mario 64 DS", "tn": "zcyjfSk6i4A", "cat_id": 2},
             
-            {"id": 12, "title": "Koopa Cape (JP Version) - Mario Kart Wii", "tn": "e9HIIyDgM_s", "cat_id": 3},
+            {"id": 12, "title": "Black - Homestuck", "tn": "jFv4ox-hj_Q", "cat_id": 3},
             {"id": 13, "title": "\"It's a me, Mario!\" (JP Version) - Super Mario 64", "tn": "ZEBZkGTtH3U", "cat_id": 3},
             {"id": 14, "title": "A Feeling Of Power (Blue Lagoon) (Unused Version) - Heavy Rain", "tn": "0WbcNfDpm-Q", "cat_id": 3},
             {"id": 15, "title": "A Song for the Fireflies - Rime", "tn": "-d4_kAtxyw0", "cat_id": 3}
         ],
 
         "groups": [
-            {"id": 0, "title": "Rips featured on \"Legends of the Western Sunset\" album"},
-            {"id": 1, "title": "Rips featuring The Penis (Eek!)"},
+            {"id": 0, "title": "Rips featuring The Penis (Eek!)"},
+            {"id": 1, "title": "Rips featured on \"Legends of the Western Sunset\" album"},
             {"id": 2, "title": "Doofenshmirtz Evil Incorporated Takeover rips"},
             {"id": 3, "title": "Rips with visual elements"}
         ]
