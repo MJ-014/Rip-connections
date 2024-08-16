@@ -63,63 +63,63 @@
     
     "16/7/2024": {
         "items": [
-            {"id": 0, "title": "Robin (Blockrock) - Iconoclasts", "tn": "hPoAWgzse3E", "cat_id": 3},
-            {"id": 1, "title": "Vagabounce - Homestuck", "tn": "RXU_PrFTWvc", "cat_id": 3},
-            {"id": 2, "title": "Ashter's Theme (Demo) - Repugnant Bounty", "tn": "onx6GVmVnr8", "cat_id": 3},
-            {"id": 3, "title": "Glass - Po prostu Łoś", "tn": "QbYZlj3tS6Y", "cat_id": 3},
+            {"id": 0, "title": "Robin (Blockrock) - Iconoclasts", "tn": "hPoAWgzse3E", "cat_id": 0},
+            {"id": 1, "title": "Vagabounce - Homestuck", "tn": "RXU_PrFTWvc", "cat_id": 0},
+            {"id": 2, "title": "Ashter's Theme (Demo) - Repugnant Bounty", "tn": "onx6GVmVnr8", "cat_id": 0},
+            {"id": 3, "title": "Glass - Po prostu Łoś", "tn": "QbYZlj3tS6Y", "cat_id": 0},
             
-            {"id": 4, "title": "Introduction (Famicom Disk System) - Stinger", "tn": "dG3UxfESCXA", "cat_id": 0},
-            {"id": 5, "title": "Slashers - Action 52", "tn": "8tS3j6gAqkQ", "cat_id": 0},
-            {"id": 6, "title": "Title Theme (Alternate Mix) - DuckTales", "tn": "wFKwpvVYS_k", "cat_id": 0},
-            {"id": 7, "title": "Green Greens (JP Version) - Kirby: Nightmare in Dream Land", "tn": "jrlRG45yRvU", "cat_id": 0},
+            {"id": 4, "title": "Introduction (Famicom Disk System) - Stinger", "tn": "dG3UxfESCXA", "cat_id": 1},
+            {"id": 5, "title": "Slashers - Action 52", "tn": "8tS3j6gAqkQ", "cat_id": 1},
+            {"id": 6, "title": "Title Theme (Alternate Mix) - DuckTales", "tn": "wFKwpvVYS_k", "cat_id": 1},
+            {"id": 7, "title": "Green Greens (JP Version) - Kirby: Nightmare in Dream Land", "tn": "jrlRG45yRvU", "cat_id": 1},
 
             {"id": 8, "title": "Egg Reverie - Egg Reverie Zone (Short Version) - Sonic Mania", "tn": "1mHC2bWiSYY", "cat_id": 2},
             {"id": 9, "title": "Miss! - Kirby: Nightmare in Dream Land", "tn": "yG2pLW2_w24", "cat_id": 2},
             {"id": 10, "title": "Perry the Platypus Theme - Phineas and Ferb: Quest for Cool Stuff", "tn": "yYOqacA1yyo", "cat_id": 2},
             {"id": 11, "title": "Mix-a-Mug - Super Mario 64 DS", "tn": "zcyjfSk6i4A", "cat_id": 2},
             
-            {"id": 12, "title": "Black - Homestuck", "tn": "jFv4ox-hj_Q", "cat_id": 1},
-            {"id": 13, "title": "\"It's a me, Mario!\" (JP Version) - Super Mario 64", "tn": "ZEBZkGTtH3U", "cat_id": 1},
-            {"id": 14, "title": "A Feeling Of Power (Blue Lagoon) (Unused Version) - Heavy Rain", "tn": "0WbcNfDpm-Q", "cat_id": 1},
-            {"id": 15, "title": "A Song for the Fireflies - Rime", "tn": "-d4_kAtxyw0", "cat_id": 1}
+            {"id": 12, "title": "Black - Homestuck", "tn": "jFv4ox-hj_Q", "cat_id": 3},
+            {"id": 13, "title": "\"It's a me, Mario!\" (JP Version) - Super Mario 64", "tn": "ZEBZkGTtH3U", "cat_id": 3},
+            {"id": 14, "title": "A Feeling Of Power (Blue Lagoon) (Unused Version) - Heavy Rain", "tn": "0WbcNfDpm-Q", "cat_id": 3},
+            {"id": 15, "title": "A Song for the Fireflies - Rime", "tn": "-d4_kAtxyw0", "cat_id": 3}
         ],
 
         "groups": [
-            {"id": 3, "title": "Rips featuring The Penis (Eek!)"},
-            {"id": 0, "title": "Rips featured on \"Legends of the Western Sunset\" Album"},
+            {"id": 0, "title": "Rips featuring The Penis (Eek!)"},
+            {"id": 1, "title": "Rips featured on \"Legends of the Western Sunset\" Album"},
             {"id": 2, "title": "Doofenshmirtz Evil Incorporated Takeover Rips"},
-            {"id": 1, "title": "Rips with Visual Elements"}
+            {"id": 3, "title": "Rips with Visual Elements"}
         ]
     },
     
     "17/7/2024": {
         "items": [
-            {"id": 0, "title": "Let's Get It Started - The Black Eyed Peas Experience", "tn": "Byusd6Y-sWM", "cat_id": 3},
-            {"id": 1, "title": "Main Theme - Among Ass", "tn": "NoZhyxB1OcA", "cat_id": 3},
-            {"id": 2, "title": "Three Blind Mice - Fisher-Price Perfect Fit", "tn": "LY2L8f1rcKA", "cat_id": 3},
-            {"id": 3, "title": "The Star-Spangled Banner - 1943: Midway Kaisen", "tn": "W3_mv856Ffc", "cat_id": 3},
+            {"id": 0, "title": "Let's Get It Started - The Black Eyed Peas Experience", "tn": "Byusd6Y-sWM", "cat_id": 0},
+            {"id": 1, "title": "Main Theme - Among Ass", "tn": "NoZhyxB1OcA", "cat_id": 0},
+            {"id": 2, "title": "Three Blind Mice - Fisher-Price Perfect Fit", "tn": "LY2L8f1rcKA", "cat_id": 0},
+            {"id": 3, "title": "The Star-Spangled Banner - 1943: Midway Kaisen", "tn": "W3_mv856Ffc", "cat_id": 0},
             
-            {"id": 4, "title": "Burning Town (Removed Version) - Shantae: Risky's Revenge", "tn": "swR1WHxe5qg", "cat_id": 0},
-            {"id": 5, "title": "Ruins Ahead - Kirby Mass Attack", "tn": "fPzbBlo-rII", "cat_id": 0},
-            {"id": 6, "title": "Gobi's Valley (In-Game Version) - Banjo-Kazooie", "tn": "ZTDvzUMZxrM", "cat_id": 0},
-            {"id": 7, "title": "K.K. Bazaar (Aircheck) - Animal Crossing: New Horizons", "tn": "GbXqFAwiq7s", "cat_id": 0},
+            {"id": 4, "title": "Burning Town (Removed Version) - Shantae: Risky's Revenge", "tn": "swR1WHxe5qg", "cat_id": 1},
+            {"id": 5, "title": "Ruins Ahead - Kirby Mass Attack", "tn": "fPzbBlo-rII", "cat_id": 1},
+            {"id": 6, "title": "Gobi's Valley (In-Game Version) - Banjo-Kazooie", "tn": "ZTDvzUMZxrM", "cat_id": 1},
+            {"id": 7, "title": "K.K. Bazaar (Aircheck) - Animal Crossing: New Horizons", "tn": "GbXqFAwiq7s", "cat_id": 1},
 
             {"id": 8, "title": "Spin Ye Bottle (Minigame) - Shovel Knight 64", "tn": "fyVzDgkR5aA", "cat_id": 2},
             {"id": 9, "title": "Main Theme - Sonic Adventure 3", "tn": "mQjkQwlzYyI", "cat_id": 2},
             {"id": 10, "title": "Ta-Ta-Tax Fraud! - Yoshi Commits Tax Fraud", "tn": "I30Avqm-shY", "cat_id": 2},
             {"id": 11, "title": "Tutorial (Part 1) - π", "tn": "azu_INLYOXw", "cat_id": 2},
             
-            {"id": 12, "title": "Palace of Shadow - Paper Mario: The Thousand-Year Door", "tn": "JonbXGx2My0", "cat_id": 1},
-            {"id": 13, "title": "Guzma's Theme - Pokémon Sun & Moon", "tn": "O15QBnG_fWU", "cat_id": 1},
-            {"id": 14, "title": "PARANOiA (kskst mix) - DanceDanceRevolution X3 VS 2ndMIX", "tn": "1jc1uvuh0sI", "cat_id": 1},
-            {"id": 15, "title": "One Step at a Time (Tutorial) (NTSC Version) - Mamorukun Curse!", "tn": "My66_62GrzY", "cat_id": 1}
+            {"id": 12, "title": "Palace of Shadow - Paper Mario: The Thousand-Year Door", "tn": "JonbXGx2My0", "cat_id": 3},
+            {"id": 13, "title": "Guzma's Theme - Pokémon Sun & Moon", "tn": "O15QBnG_fWU", "cat_id": 3},
+            {"id": 14, "title": "PARANOiA (kskst mix) - DanceDanceRevolution X3 VS 2ndMIX", "tn": "1jc1uvuh0sI", "cat_id": 3},
+            {"id": 15, "title": "One Step at a Time (Tutorial) (NTSC Version) - Mamorukun Curse!", "tn": "My66_62GrzY", "cat_id": 3}
         ],
 
         "groups": [
-            {"id": 3, "title": "Event Starter Rips"},
-            {"id": 0, "title": "Quadruplet Rips"},
+            {"id": 0, "title": "Event Starter Rips"},
+            {"id": 1, "title": "Quadruplet Rips"},
             {"id": 2, "title": "Fake Games"},
-            {"id": 1, "title": "Rips featuring ERB"}
+            {"id": 3, "title": "Rips featuring ERB"}
         ]
     },
     

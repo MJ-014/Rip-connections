@@ -36,7 +36,7 @@ export class GameComponent {
   thumbnailsEnabled: boolean = false;
   wikiModeEnabled: boolean = false;
   dropDownsOpened: boolean[] = [false, false, false, false];
-  doneRowColors: { emoji: string, color: string }[] = [{ emoji: '🟩', color: '#cbff70' }, { emoji: '🟪', color: '#faa3ff' }, { emoji: '🟦', color: '#78daf9' }, { emoji: '🟧', color: '#ffbc21' }];
+  doneRowColors: { emoji: string, color: string }[] = [{ emoji: '🟧', color: '#ffbc21' }, { emoji: '🟩', color: '#cbff70' }, { emoji: '🟦', color: '#78daf9' }, { emoji: '🟪', color: '#faa3ff' }];
 
   lives: number = 4;
   playlistHref: string = '';
