@@ -274,12 +274,6 @@ export class GameComponent {
   }
 
   getFontSize(id: number) {
-    if (window.innerWidth > 850) {
-      return (this.getItemById(id).title.length * -0.063) + 20  ;
-    } else if (window.innerWidth > 600) {
-      return (this.getItemById(id).title.length * -0.063) + 12.7;
-    } else {
-      return Math.min(1, (this.getItemById(id).title.length * -0.063));
-    }
+    return (this.getItemById(id).title.length * -0.063) + 18;
   }
 }
