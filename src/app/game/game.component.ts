@@ -17,7 +17,7 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-  // constructor(public cookieGuy: CookieService) { }
+// constructor(public cookieGuy: CookieService) { }
 
   Math = Math;
   date = new Date(Date.now());
@@ -68,8 +68,6 @@ export class GameComponent {
     this.itemsData = await response.json();
     console.log(this.itemsData)
     this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
-    console.log(this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear())
-    console.log(this.todayData)
 
     for (let item of this.todayData.items) {
       this.rows[~~((item.id) / 4)]?.push(item);
@@ -273,9 +271,5 @@ export class GameComponent {
     }
 
     this.rows = result;
-  }
-
-  getFontSize(id: number) {
-    return (this.getItemById(id).title.length * -0.063) + 18;
   }
 }
