@@ -68,6 +68,8 @@ export class GameComponent {
     this.itemsData = await response.json();
     console.log(this.itemsData)
     this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
+    console.log(this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear())
+    console.log(this.todayData)
 
     for (let item of this.todayData.items) {
       this.rows[~~((item.id) / 4)]?.push(item);

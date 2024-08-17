@@ -1,0 +1,249 @@
+{
+    "14/7/2024": {
+        "items": [
+            {"id": 0, "title": "Merry-Go-Round (Beta Mix) - Super Mario 64", "tn": "13P3m2fE_-w", "cat_id": 0},
+            {"id": 1, "title": "Dire, Dire Docks (RU Version) - Super Mario 64", "tn": "-Q0vqIgPsZg", "cat_id": 0},
+            {"id": 2, "title": "Correct Solution - Super Mario 64", "tn": "WpiC0qACsYg", "cat_id": 0},
+            {"id": 3, "title": "Ultimate Koopa (Unused Mix) - Super Mario 64", "tn": "6IyfbcY5p7Q", "cat_id": 0},
+            
+            {"id": 4, "title": "A Little Elegy - MOTHER 3", "tn": "-FBMfpvxdVs", "cat_id": 1},
+            {"id": 5, "title": "Falling Down - Barkley, Shut Up and Jam: Gaiden", "tn": "dB3oETBFVoQ", "cat_id": 1},
+            {"id": 6, "title": "Berdly (Unused Mix) - Deltarune", "tn": "HgGlNRmKaC0", "cat_id": 1},
+            {"id": 7, "title": "Ganondorf Battle (JP Version) - The Legend of Zelda: Ocarina of Time", "tn": "3Vs3Qkn_VJY", "cat_id": 1},
+
+            {"id": 8, "title": "cave1.ogg - Minecraft", "tn": "VH7fVyOvmgo", "cat_id": 2},
+            {"id": 9, "title": "Emergency Destruct System - Weekend Warrior", "tn": "x_y_lTrFsgY", "cat_id": 2},
+            {"id": 10, "title": "At Doom's Gate (Beta Mix) - Doom", "tn": "G24SExGl9IE", "cat_id": 2},
+            {"id": 11, "title": "Delfino Plaza - Super Mario Sunshine", "tn": "ds6I5sUBGtw", "cat_id": 2},
+            
+            {"id": 12, "title": "Boss 2 - Alien Syndrome (Arcade)", "tn": "iTC1fsUXiA4", "cat_id": 3},
+            {"id": 13, "title": "Mrs. Puff Chase - Around the Clock at Bikini Bottom", "tn": "WxphMHl56Ig", "cat_id": 3},
+            {"id": 14, "title": "Ziggy Stardust - Rock Band 3", "tn": "s1yDK3DSQUg", "cat_id": 3},
+            {"id": 15, "title": "What The Grox? - Spore", "tn": "BNKI4fWY-m8", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Super Mario 64 Rips"},
+            {"id": 1, "title": "Rips by minindo"},
+            {"id": 2, "title": "Rips featuring Loud Nigra"},
+            {"id": 3, "title": "Alien Day rips"}
+        ]
+    },
+
+    "15/7/2024": {
+        "items": [
+            {"id": 0, "title": "Slopping Spree - Splatoon 3", "tn": "QfXUGQulGRw", "cat_id": 0},
+            {"id": 1, "title": "Rival Battle: Metal Sonic \"Stardust Speedway\" - Sonic X Shadow Generations", "tn": "m9g9alS3PpM", "cat_id": 0},
+            {"id": 2, "title": "No Flights Out (Flying Machine) (Puzzler's Pack Update) - Shovel Knight Pocket Dungeon", "tn": "yOo7F1FqnqM", "cat_id": 0},
+            {"id": 3, "title": "Cyber Space 3-4: Constructure - Sonic Frontiers", "tn": "mYi2ynbSxWw", "cat_id": 0},
+            
+            {"id": 4, "title": "You Are Smart (OST Mix) - Katamari Damacy", "tn": "3nZha7J5wmI", "cat_id": 1},
+            {"id": 5, "title": "WANDA WANDA - Katamari Damacy", "tn": "FIOFsUHOsak", "cat_id": 1},
+            {"id": 6, "title": "Walking on a Star! (OST Version) - Katamari Damacy", "tn": "zfCdb3LF7KU", "cat_id": 1},
+            {"id": 7, "title": "Gin & Tonic & Red Red Roses - Katamari Damacy", "tn": "NoI0NXawdbQ", "cat_id": 1},
+
+            {"id": 8, "title": "Aquatic Ambience (In-Game Version) - Donkey Kong Country", "tn": "mjNNM96ao0w", "cat_id": 2},
+            {"id": 9, "title": "Name Entry - Famicom Mukashibanashi: Yūyūki", "tn": "Hy1InBovTP0", "cat_id": 2},
+            {"id": 10, "title": "Rhythm Toys (Album Version) - Rhythm Heaven", "tn": "62eDrTaM-10", "cat_id": 2},
+            {"id": 11, "title": "Vs. Result - Bust-A-Move DS", "tn": "ICUYvODlcUI", "cat_id": 2},
+            
+            {"id": 12, "title": "Endless Remix - Rhythm Heaven Fever", "tn": "1gHOlVRTqP0", "cat_id": 3},
+            {"id": 13, "title": "Dreams of Our Generation (Night Walk) (US Version) - Rhythm Heaven Fever", "tn": "gkXLgKGUx3U", "cat_id": 3},
+            {"id": 14, "title": "Bossa Nova (Beta Mix) - Rhythm Heaven Fever", "tn": "LJkIXq78H2Y", "cat_id": 3},
+            {"id": 15, "title": "Haggstrom - Minecraft", "tn": "PmUjnjaVais", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips featuring underscores"},
+            {"id": 1, "title": "Katamari Damacy rips"},
+            {"id": 2, "title": "Arrangement rips"},
+            {"id": 3, "title": "Rips by Expensive Dispenser"}
+        ]
+    },
+    
+    "16/7/2024": {
+        "items": [
+            {"id": 4, "title": "Robin (Blockrock) - Iconoclasts", "tn": "hPoAWgzse3E", "cat_id": 0},
+            {"id": 5, "title": "Vagabounce - Homestuck", "tn": "RXU_PrFTWvc", "cat_id": 0},
+            {"id": 6, "title": "Ashter's Theme (Demo) - Repugnant Bounty", "tn": "onx6GVmVnr8", "cat_id": 0},
+            {"id": 7, "title": "Glass - Po prostu Łoś", "tn": "QbYZlj3tS6Y", "cat_id": 0},
+            
+            {"id": 0, "title": "Introduction (Famicom Disk System) - Stinger", "tn": "dG3UxfESCXA", "cat_id": 1},
+            {"id": 1, "title": "Slashers - Action 52", "tn": "8tS3j6gAqkQ", "cat_id": 1},
+            {"id": 2, "title": "Title Theme (Alternate Mix) - DuckTales", "tn": "wFKwpvVYS_k", "cat_id": 1},
+            {"id": 3, "title": "Green Greens (JP Version) - Kirby: Nightmare in Dream Land", "tn": "jrlRG45yRvU", "cat_id": 1},
+
+            {"id": 8, "title": "Egg Reverie - Egg Reverie Zone (Short Version) - Sonic Mania", "tn": "1mHC2bWiSYY", "cat_id": 2},
+            {"id": 9, "title": "Miss! - Kirby: Nightmare in Dream Land", "tn": "yG2pLW2_w24", "cat_id": 2},
+            {"id": 10, "title": "Perry the Platypus Theme - Phineas and Ferb: Quest for Cool Stuff", "tn": "yYOqacA1yyo", "cat_id": 2},
+            {"id": 11, "title": "Mix-a-Mug - Super Mario 64 DS", "tn": "zcyjfSk6i4A", "cat_id": 2},
+            
+            {"id": 12, "title": "Black - Homestuck", "tn": "jFv4ox-hj_Q", "cat_id": 3},
+            {"id": 13, "title": "\"It's a me, Mario!\" (JP Version) - Super Mario 64", "tn": "ZEBZkGTtH3U", "cat_id": 3},
+            {"id": 14, "title": "A Feeling Of Power (Blue Lagoon) (Unused Version) - Heavy Rain", "tn": "0WbcNfDpm-Q", "cat_id": 3},
+            {"id": 15, "title": "A Song for the Fireflies - Rime", "tn": "-d4_kAtxyw0", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips featuring The Penis (Eek!)"},
+            {"id": 1, "title": "Rips featured on \"Legends of the Western Sunset\" Album"},
+            {"id": 2, "title": "Doofenshmirtz Evil Incorporated Takeover Rips"},
+            {"id": 3, "title": "Rips with Visual Elements"}
+        ]
+    },
+    
+    "17/7/2024": {
+        "items": [
+            {"id": 0, "title": "Let's Get It Started - The Black Eyed Peas Experience", "tn": "Byusd6Y-sWM", "cat_id": 0},
+            {"id": 1, "title": "Main Theme - Among Ass", "tn": "NoZhyxB1OcA", "cat_id": 0},
+            {"id": 2, "title": "Three Blind Mice - Fisher-Price Perfect Fit", "tn": "LY2L8f1rcKA", "cat_id": 0},
+            {"id": 3, "title": "The Star-Spangled Banner - 1943: Midway Kaisen", "tn": "W3_mv856Ffc", "cat_id": 0},
+            
+            {"id": 4, "title": "Burning Town (Removed Version) - Shantae: Risky's Revenge", "tn": "swR1WHxe5qg", "cat_id": 1},
+            {"id": 5, "title": "Ruins Ahead - Kirby Mass Attack", "tn": "fPzbBlo-rII", "cat_id": 1},
+            {"id": 6, "title": "Gobi's Valley (In-Game Version) - Banjo-Kazooie", "tn": "ZTDvzUMZxrM", "cat_id": 1},
+            {"id": 7, "title": "K.K. Bazaar (Aircheck) - Animal Crossing: New Horizons", "tn": "GbXqFAwiq7s", "cat_id": 1},
+
+            {"id": 8, "title": "Spin Ye Bottle (Minigame) - Shovel Knight 64", "tn": "fyVzDgkR5aA", "cat_id": 2},
+            {"id": 9, "title": "Main Theme - Sonic Adventure 3", "tn": "mQjkQwlzYyI", "cat_id": 2},
+            {"id": 10, "title": "Ta-Ta-Tax Fraud! - Yoshi Commits Tax Fraud", "tn": "I30Avqm-shY", "cat_id": 2},
+            {"id": 11, "title": "Tutorial (Part 1) - π", "tn": "azu_INLYOXw", "cat_id": 2},
+            
+            {"id": 12, "title": "Palace of Shadow - Paper Mario: The Thousand-Year Door", "tn": "JonbXGx2My0", "cat_id": 3},
+            {"id": 13, "title": "Guzma's Theme - Pokémon Sun & Moon", "tn": "O15QBnG_fWU", "cat_id": 3},
+            {"id": 14, "title": "PARANOiA (kskst mix) - DanceDanceRevolution X3 VS 2ndMIX", "tn": "1jc1uvuh0sI", "cat_id": 3},
+            {"id": 15, "title": "One Step at a Time (Tutorial) (NTSC Version) - Mamorukun Curse!", "tn": "My66_62GrzY", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Event Starter Rips"},
+            {"id": 1, "title": "Quadruplet Rips"},
+            {"id": 2, "title": "Fake Games"},
+            {"id": 3, "title": "Rips featuring ERB"}
+        ]
+    },
+    
+    "18/7/2024": {
+        "items": [
+            {"id": 0, "title": "File Select - Super Mario 64", "tn": "qB1ucmJSgRE", "cat_id": 0},
+            {"id": 1, "title": "Run - Hotline Miami 2: Wrong Number", "tn": "rc4MHZ_3AfY", "cat_id": 0},
+            {"id": 2, "title": "Death by Glamour (Complete Mix) - Undertale", "tn": "1pWSt6Hz-1w", "cat_id": 0},
+            {"id": 3, "title": "Flat Zone 2 - Super Smash Bros. Brawl", "tn": "Tptx8boeGhE", "cat_id": 0},
+            
+            {"id": 4, "title": "Athletic Theme - Super Mario Land 2", "tn": "szFR10BOiZE", "cat_id": 1},
+            {"id": 5, "title": "Snowman - EarthBound Beginnings/MOTHER", "tn": "DkaWZV5Sao8", "cat_id": 1},
+            {"id": 6, "title": "Main Theme - Hong Kong 97", "tn": "A_51x0-OMyI", "cat_id": 1},
+            {"id": 7, "title": "Underworld Map - Doraemon: Gigazombie no Gyakushuu", "tn": "Y_yaxAwWVtA", "cat_id": 1},
+
+            {"id": 8, "title": "Friends - Sonic Mania", "tn": "4jgKNmoIUsU", "cat_id": 2},
+            {"id": 9, "title": "Breeze With U - Paradise Killer", "tn": "Rl_NlS5AwfM", "cat_id": 2},
+            {"id": 10, "title": "Can't Take It Anymore (Chemical City) - Toree Genesis", "tn": "bAUiDk52AXo", "cat_id": 2},
+            {"id": 11, "title": "Is This Fun - JOVIAL Playground", "tn": "2uXFuhGsFtk", "cat_id": 2},
+            
+            {"id": 12, "title": "Title Theme - Escaped Chasm", "tn": "yr-K6l5Txkg", "cat_id": 3},
+            {"id": 13, "title": "Teardrop-Shaped Stones - Little Town Hero", "tn": "-N_HZ3wSD0c", "cat_id": 3},
+            {"id": 14, "title": "Into the Mind (I.V Update) - YIIK: A Postmodern RPG", "tn": "5jdGtpBUeBk", "cat_id": 3},
+            {"id": 15, "title": "Battle! (Area Zero) - Pokémon Scarlet & Violet", "tn": "zX3tsiP6ptU", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips that Were Remastered"},
+            {"id": 1, "title": "Tracks that Received a Fusion Collab"},
+            {"id": 2, "title": "Rips with Composer Comments"},
+            {"id": 3, "title": "Toby Fox Rips"}
+        ]
+    },
+    
+    "19/7/2024": {
+        "items": [
+            {"id": 0, "title": "Boarder 70 (Beta Mix) - Ollie King", "tn": "Tmubddoc_Nc", "cat_id": 0},
+            {"id": 1, "title": "Newjack vs. Gangnam Style - DJ Hero 2", "tn": "k9bEhPZKVDQ", "cat_id": 0},
+            {"id": 2, "title": "Field of Hopes and Dreams (PAL Version) - Deltarune", "tn": "9-kS3jEzVeg", "cat_id": 0},
+            {"id": 3, "title": "LAW & DISORDER: TURNABOUT DESPAIR - Teaser || SiIvaFes", "tn": "wfPF-dAZcms", "cat_id": 0},
+            
+            {"id": 4, "title": "The Best Thing About It Is It's Free! - SiIvaGunner: King for a Day Tournament", "tn": "Fq2nEsvY1xY", "cat_id": 1},
+            {"id": 5, "title": "Boris' Cocktail (SECAM Version) - EarthBound", "tn": "XXwdWLWeIKY", "cat_id": 1},
+            {"id": 6, "title": "Orange Ocean (Alternate Mix) - Kirby's Adventure", "tn": "pH_g2UUXGs8", "cat_id": 1},
+            {"id": 7, "title": "In the Wind - Mega Man ZX Advent", "tn": "TtsFTH5K1oI", "cat_id": 1},
+
+            {"id": 8, "title": "Master Porky's Theme (OST Version) - MOTHER 3", "tn": "TWAL8qZd1Zk", "cat_id": 2},
+            {"id": 9, "title": "Reading the Letter (Bowser's Seizures Palace Hotel) - Hotel Mario", "tn": "bcnDRGSs5EI", "cat_id": 2},
+            {"id": 10, "title": "Title Theme & Ending (Mario 7) - Mario 7-in-1", "tn": "SHTTozeaqBY", "cat_id": 2},
+            {"id": 11, "title": "Dancing Mad (Short Version) - Final Fantasy VI", "tn": "KBJ2uA8PRv8", "cat_id": 2},
+            
+            {"id": 12, "title": "Dangerous Keep (CD Version) - Magical Pop'n", "tn": "FbHf7T9oQxk", "cat_id": 3},
+            {"id": 13, "title": "Nimbasa City Gym: Stage - Pokémon Black & White 2", "tn": "-CSFBM7ZEE8", "cat_id": 3},
+            {"id": 14, "title": "Faucet (Alpha Version) - Friday Night Funkin': V.S. Whitty - Definitive Edition", "tn": "eRpzU_slNYU", "cat_id": 3},
+            {"id": 15, "title": "SMB1 Overworld - Super Mario All-Stars: 25th Anniversary Edition", "tn": "jeS1sjZ7XYc", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips featuring Mashup Week"},
+            {"id": 1, "title": "Rips Uploaded on August 18th"},
+            {"id": 2, "title": "One-Winged Arrangement Rips"},
+            {"id": 3, "title": "Anniversary Rips"}
+        ]
+    },
+    
+    "20/7/2024": {
+        "items": [
+            {"id": 0, "title": "Fireflies", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "Gangnam Style", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "Bangarang", "tn": "", "cat_id": 0},
+            {"id": 3, "title": "Uptown Funk", "tn": "", "cat_id": 0},
+            
+            {"id": 4, "title": "The Penis (Eek!)", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "Overdrive", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "Unreeeal superhero 3", "tn": "", "cat_id": 1},
+            {"id": 7, "title": "Happy Happy Christmas", "tn": "", "cat_id": 1},
+
+            {"id": 8, "title": "the new rick rolld", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "Differences™", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "The Lick", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "Nerf This!", "tn": "", "cat_id": 2},
+            
+            {"id": 12, "title": "Eggnog", "tn": "", "cat_id": 3},
+            {"id": 13, "title": "Angry Joe", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "9+10=21", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "Damn Daniel", "tn": "", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "SoundClown Jokes"},
+            {"id": 1, "title": "Jokes Originating from Tracker Music"},
+            {"id": 2, "title": "Short Jingle Jokes"},
+            {"id": 3, "title": "Jokes featuring Real Life People"}
+        ]
+    },
+    
+    "xx/xx/2024": {
+        "items": [
+            {"id": 0, "title": "", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "", "tn": "", "cat_id": 0},
+            {"id": 3, "title": "", "tn": "", "cat_id": 0},
+            
+            {"id": 4, "title": "", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "", "tn": "", "cat_id": 1},
+            {"id": 7, "title": "", "tn": "", "cat_id": 1},
+
+            {"id": 8, "title": "", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "", "tn": "", "cat_id": 2},
+            
+            {"id": 12, "title": "", "tn": "", "cat_id": 3},
+            {"id": 13, "title": "", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "", "tn": "", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": ""},
+            {"id": 1, "title": ""},
+            {"id": 2, "title": ""},
+            {"id": 3, "title": ""}
+        ]
+    }
+}
