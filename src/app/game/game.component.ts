@@ -17,7 +17,7 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-// constructor(public cookieGuy: CookieService) { }
+  // constructor(public cookieGuy: CookieService) { }
 
   Math = Math;
   date = new Date(Date.now());
@@ -271,5 +271,15 @@ export class GameComponent {
     }
 
     this.rows = result;
+  }
+
+  getFontSize(id: number) {
+    if (window.innerWidth > 850) {
+      return (this.getItemById(id).title.length * -0.063) + 20  ;
+    } else if (window.innerWidth > 600) {
+      return (this.getItemById(id).title.length * -0.063) + 12.7;
+    } else {
+      return Math.min(1, (this.getItemById(id).title.length * -0.063));
+    }
   }
 }

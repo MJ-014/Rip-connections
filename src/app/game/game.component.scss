@@ -50,7 +50,7 @@
 
     .item-row {
         display: flex;
-        width: 850px;
+        width: 100%;
 
         .item {
             display: flex;
@@ -114,7 +114,7 @@
 
         padding: 10px;
         height: 135px;
-        width: 840px;
+        width: calc(100% - 20px);
 
         .cat-title-row {
             .cat-title {
@@ -235,22 +235,8 @@
     }
 }
 
-@media only screen and (max-width: 1080px) {
-    .item-row, .done-items-row, #game-window {
-        width: 600px !important;
-    }
-
-    #playlist {
-        right: 0;
-    }
-
+@media (min-width: 850px) {
     #game-window {
-        margin-top: 70px;
-    }
-}
-
-@media only screen and (max-width: 850px) {
-    .item-row, .done-items-row, #game-window {
-        width: 400px !important;
+        width: 90vw;
     }
 }
