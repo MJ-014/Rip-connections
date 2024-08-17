@@ -39,7 +39,7 @@
                 @if (enableThumbnails.checked) {
                     <img [src]="'https://i.ytimg.com/vi/' + item.tn + '/mqdefault.jpg'" draggable="false">
                 }
-                <span [style.font-size]="getFontSize(item.id) + 'px'">{{item.title}}</span>
+                <span [style.font-size]="((item.title.length*-0.063) + 18.26) + 'px'">{{item.title}}</span>
             </div>
             }
         </div>
