@@ -50,7 +50,7 @@
 
     .item-row {
         display: flex;
-        width: 100%;
+        width: 850px;
 
         .item {
             display: flex;
@@ -114,7 +114,7 @@
 
         padding: 10px;
         height: 135px;
-        width: calc(100% - 20px);
+        width: 840px;
 
         .cat-title-row {
             .cat-title {
@@ -232,5 +232,25 @@
     100% {
         opacity: 0;
         display: none;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .item-row, .done-items-row, #game-window {
+        width: 600px !important;
+    }
+
+    #playlist {
+        right: 0;
+    }
+
+    #game-window {
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .item-row, .done-items-row, #game-window {
+        width: 400px !important;
     }
 }
