@@ -38,7 +38,7 @@
         @for (row of rows; track $index) {
         <div class="item-row">
             @for (item of row; track item.id) {
-            <div class="item" (click)="onItemClicked(item.id)" (mouseover)="hovers = item.title" (contextmenu)="onItemRightClick()" [class.active-item]="isActive(item.id)">
+            <div class="item" [id]="item.id" (click)="onItemClicked(item.id)" (mouseover)="hovers = item.title" (contextmenu)="onItemRightClick()" [class.active-item]="isActive(item.id)">
                 @if (enableThumbnails.checked) {
                     <img [src]="'https://i.ytimg.com/vi/' + item.tn + '/mqdefault.jpg'" draggable="false">
                 }

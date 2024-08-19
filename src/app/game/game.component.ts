@@ -43,27 +43,6 @@ export class GameComponent {
   hovers: string = '';
 
   async ngOnInit() {
-    // if (this.cookieGuy.get('beaten')) {
-    //   this.beaten = true;
-    //   let leftCats: ConnectionItem[][] = [[], [], [], []];
-    //   for (let row of this.rows) {
-    //     for (let item of row) {
-    //       leftCats[item.cat_id].push(item);
-    //     }
-    //   }
-
-    //   for (let leftCat of leftCats) {
-    //     if (leftCat.length >= 4) {
-    //       this.doneRows.push(leftCat);
-    //       this.activeItems = [];
-    //     }
-    //   }
-
-    //   this.rows = [];
-    // } else {
-    //   this.beaten = false;
-    // }
-
     var response = await fetch('https://raw.githubusercontent.com/MJ-014/Rip-connections/main/docs/items.json', { method: 'GET' });
     this.itemsData = await response.json();
     this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
