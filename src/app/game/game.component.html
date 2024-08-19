@@ -9,6 +9,9 @@
             <div id="playlist-logo"><img src="./youtube_logo.svg"></div>
             <div id="playlist-text">Today's<br>Playlist</div>
         </a>
+        @if (todayData.label) {
+            <div id="label">{{todayData.label}}</div>
+        }
 
         @for (doneRow of doneRows; track $index) {
         <div class="done-items-row" [class.done-items-row-open]="dropDownsOpened[$index]"

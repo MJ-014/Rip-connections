@@ -127,7 +127,7 @@
         "items": [
             {"id": 0, "title": "File Select - Super Mario 64", "tn": "qB1ucmJSgRE", "cat_id": 0},
             {"id": 1, "title": "Run - Hotline Miami 2: Wrong Number", "tn": "rc4MHZ_3AfY", "cat_id": 0},
-            {"id": 2, "title": "Death by Glamour (Unused Vocal Version) - Undertale", "tn": "JmkZDMnTUuo", "cat_id": 0},
+            {"id": 2, "title": "Death by Glamour (Complete Mix) - Undertale", "tn": "1pWSt6Hz-1w", "cat_id": 0},
             {"id": 3, "title": "Flat Zone 2 - Super Smash Bros. Brawl", "tn": "Tptx8boeGhE", "cat_id": 0},
             
             {"id": 4, "title": "Athletic Theme - Super Mario Land 2", "tn": "szFR10BOiZE", "cat_id": 1},
@@ -156,37 +156,36 @@
     
     "19/7/2024": {
         "items": [
-            {"id": 0, "title": "Master Porky's Theme (OST Version) - MOTHER 3", "tn": "TWAL8qZd1Zk", "cat_id": 0},
-            {"id": 1, "title": "Track 10 - Final Fantasy VII (Pirate)", "tn": "o0YxQu1feww", "cat_id": 0},
-            {"id": 2, "title": "Title Theme & Ending (Mario 7) - Mario 7-in-1", "tn": "SHTTozeaqBY", "cat_id": 0},
-            {"id": 3, "title": "Circus (20/20/20/20 Mode) - Five Nights at Freddy's", "tn": "PfmGej48v0Q", "cat_id": 0},
+            {"id": 0, "title": "Boarder 70 (Beta Mix) - Ollie King", "tn": "Tmubddoc_Nc", "cat_id": 0},
+            {"id": 1, "title": "Newjack vs. Gangnam Style - DJ Hero 2", "tn": "k9bEhPZKVDQ", "cat_id": 0},
+            {"id": 2, "title": "Field of Hopes and Dreams (PAL Version) - Deltarune", "tn": "9-kS3jEzVeg", "cat_id": 0},
+            {"id": 3, "title": "LAW & DISORDER: TURNABOUT DESPAIR - Teaser || SiIvaFes", "tn": "wfPF-dAZcms", "cat_id": 0},
             
-            {"id": 4, "title": "Dangerous Keep (CD Version) - Magical Pop'n", "tn": "FbHf7T9oQxk", "cat_id": 1},
-            {"id": 5, "title": "Nimbasa City Gym: Stage - Pokémon Black & White 2", "tn": "-CSFBM7ZEE8", "cat_id": 1},
-            {"id": 6, "title": "Faucet (Alpha Version) - Friday Night Funkin': V.S. Whitty - Definitive Edition", "tn": "eRpzU_slNYU", "cat_id": 1},
-            {"id": 7, "title": "SMB1 Overworld - Super Mario All-Stars: 25th Anniversary Edition", "tn": "jeS1sjZ7XYc", "cat_id": 1},
-            
-            {"id": 8, "title": "The Best Thing About It Is It's Free! - SiIvaGunner: King for a Day Tournament", "tn": "Fq2nEsvY1xY", "cat_id": 2},
-            {"id": 9, "title": "Boris' Cocktail (SECAM Version) - EarthBound", "tn": "XXwdWLWeIKY", "cat_id": 2},
-            {"id": 10, "title": "Orange Ocean (Alternate Mix) - Kirby's Adventure", "tn": "pH_g2UUXGs8", "cat_id": 2},
-            {"id": 11, "title": "In the Wind - Mega Man ZX Advent", "tn": "TtsFTH5K1oI", "cat_id": 2},
+            {"id": 4, "title": "The Best Thing About It Is It's Free! - SiIvaGunner: King for a Day Tournament", "tn": "Fq2nEsvY1xY", "cat_id": 1},
+            {"id": 5, "title": "Boris' Cocktail (SECAM Version) - EarthBound", "tn": "XXwdWLWeIKY", "cat_id": 1},
+            {"id": 6, "title": "Orange Ocean (Alternate Mix) - Kirby's Adventure", "tn": "pH_g2UUXGs8", "cat_id": 1},
+            {"id": 7, "title": "In the Wind - Mega Man ZX Advent", "tn": "TtsFTH5K1oI", "cat_id": 1},
 
-            {"id": 12, "title": "Boarder 70 (Beta Mix) - Ollie King", "tn": "Tmubddoc_Nc", "cat_id": 3},
-            {"id": 13, "title": "Newjack vs. Gangnam Style - DJ Hero 2", "tn": "k9bEhPZKVDQ", "cat_id": 3},
-            {"id": 14, "title": "Field of Hopes and Dreams (PAL Version) - Deltarune", "tn": "9-kS3jEzVeg", "cat_id": 3},
-            {"id": 15, "title": "LAW & DISORDER: TURNABOUT DESPAIR - Teaser || SiIvaFes", "tn": "wfPF-dAZcms", "cat_id": 3}
+            {"id": 8, "title": "Master Porky's Theme (OST Version) - MOTHER 3", "tn": "TWAL8qZd1Zk", "cat_id": 2},
+            {"id": 9, "title": "Reading the Letter (Bowser's Seizures Palace Hotel) - Hotel Mario", "tn": "bcnDRGSs5EI", "cat_id": 2},
+            {"id": 10, "title": "Title Theme & Ending (Mario 7) - Mario 7-in-1", "tn": "SHTTozeaqBY", "cat_id": 2},
+            {"id": 11, "title": "Dancing Mad (Short Version) - Final Fantasy VI", "tn": "KBJ2uA8PRv8", "cat_id": 2},
+            
+            {"id": 12, "title": "Dangerous Keep (CD Version) - Magical Pop'n", "tn": "FbHf7T9oQxk", "cat_id": 3},
+            {"id": 13, "title": "Nimbasa City Gym: Stage - Pokémon Black & White 2", "tn": "-CSFBM7ZEE8", "cat_id": 3},
+            {"id": 14, "title": "Faucet (Alpha Version) - Friday Night Funkin': V.S. Whitty - Definitive Edition", "tn": "eRpzU_slNYU", "cat_id": 3},
+            {"id": 15, "title": "SMB1 Overworld - Super Mario All-Stars: 25th Anniversary Edition", "tn": "jeS1sjZ7XYc", "cat_id": 3}
         ],
 
         "groups": [
-            {"id": 0, "title": "One-Winged Arrangement Rips"},
-            {"id": 1, "title": "Anniversary Rips"},
-            {"id": 2, "title": "Rips Uploaded on August 18th"},
-            {"id": 3, "title": "Rips featuring Mashup Week"}
+            {"id": 0, "title": "Rips featuring Mashup Week"},
+            {"id": 1, "title": "Rips Uploaded on August 18th"},
+            {"id": 2, "title": "One-Winged Arrangement Rips"},
+            {"id": 3, "title": "Anniversary Rips"}
         ]
     },
     
     "20/7/2024": {
-        "label": "Meme Edition",
         "items": [
             {"id": 0, "title": "Fireflies", "tn": "", "cat_id": 0},
             {"id": 1, "title": "Gangnam Style", "tn": "", "cat_id": 0},

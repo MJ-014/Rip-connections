@@ -17,7 +17,7 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-// constructor(public cookieGuy: CookieService) { }
+  // constructor(public cookieGuy: CookieService) { }
 
   Math = Math;
   date = new Date(Date.now());
@@ -66,7 +66,6 @@ export class GameComponent {
 
     var response = await fetch('https://raw.githubusercontent.com/MJ-014/Rip-connections/main/docs/items.json', { method: 'GET' });
     this.itemsData = await response.json();
-    console.log(this.itemsData)
     this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
 
     for (let item of this.todayData.items) {
