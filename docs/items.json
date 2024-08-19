@@ -210,10 +210,10 @@
         ],
 
         "groups": [
-            {"id": 0, "title": "SoundClown Jokes"},
-            {"id": 1, "title": "Jokes Originating from Tracker Music"},
-            {"id": 2, "title": "Short Jingle Jokes"},
-            {"id": 3, "title": "Jokes featuring Real Life People"}
+            {"id": 0, "title": "SoundClown Memes"},
+            {"id": 1, "title": "Memes Originating from Tracker Music"},
+            {"id": 2, "title": "Short Jingle Memes"},
+            {"id": 3, "title": "Memes featuring Real Life People"}
         ]
     },
     
@@ -251,7 +251,7 @@
     "22/07/2024": {
         "label": "Today's puzzle is designed by: minindo!",
         "items": [
-            {"id": 0, "title": "Clocktowers Beneath The Sea (Alpha Mix) - A Hat in Time", "tn": "6LQs4twNqkQ", "cat_id": 0},
+            {"id": 0, "title": "Groove of the NHC - Jet Set Radio Evolution", "tn": "ZjvUbQGkqQ4", "cat_id": 0},
             {"id": 1, "title": "☆ CLOCK TOWER RACEWAY ☆", "tn": "lGrBlfxEsZ4", "cat_id": 0},
             {"id": 2, "title": "Monday (Annihilation)", "tn": "IAt7iHgiv6Y", "cat_id": 0},
             {"id": 3, "title": "Pressing Pursuit ~ Cornered - Apollo Justice: Ace Attorney", "tn": "AM6tJ-Nku9w", "cat_id": 0},
