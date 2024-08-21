@@ -273,10 +273,10 @@
         ],
 
         "groups": [
-            {"id": 0, "title": "Original remixes"},
-            {"id": 1, "title": "Rips featuring Porter Robinson songs"},
+            {"id": 0, "title": "Original Remixes"},
+            {"id": 1, "title": "Rips featuring Porter Robinson Songs"},
             {"id": 2, "title": "Collaborations"},
-            {"id": 3, "title": "Rips with Mysikt jokes"}
+            {"id": 3, "title": "Rips with Mysikt Jokes"}
         ]
     },
     
