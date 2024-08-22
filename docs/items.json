@@ -280,6 +280,70 @@
         ]
     },
     
+    "23/7/2024": {
+        "label": "",
+        "items": [
+            {"id": 0, "title": "Editor (OST Version) - Gangster Bros. Maker", "tn": "bBMv1VPiJNg", "cat_id": 0},
+            {"id": 1, "title": "Forest of Illusion - Super Mario World", "tn": "MZnElXB9kqs", "cat_id": 0},
+            {"id": 2, "title": "Bubbly Clouds (NTSC Mix) - Kirby Super Star", "tn": "g_PFq3MmCkg", "cat_id": 0},
+            {"id": 3, "title": "Boxing - Results (Unused Version) - Wii Sports", "tn": "Ybk2lbH_1ng", "cat_id": 0},
+            
+            {"id": 4, "title": "Angel Island Zone (Act 1) - Sonic the Hedgehog 3 & Knuckles", "tn": "nmi2aNVkOjQ", "cat_id": 1},
+            {"id": 5, "title": "Butter Building (Beta Mix) - Kirby: Nightmare in Dream Land", "tn": "gFV8dNjlHqo", "cat_id": 1},
+            {"id": 6, "title": "Ensemble with Everyone - Zettai Onkan OtodaMaster", "tn": "kHiBSZlNyas", "cat_id": 1},
+            {"id": 7, "title": "Kaisha Man - Kero Blaster", "tn": "jY3hN1l1fIQ", "cat_id": 1},
+
+            {"id": 8, "title": "Music Box Song - Stardew Valley", "tn": "x3vh8x8gLkg", "cat_id": 2},
+            {"id": 9, "title": "Its World - Toree 3D", "tn": "OjD7bvbXMSE", "cat_id": 2},
+            {"id": 10, "title": "Castle City (Beta Version) - Jazz Jackrabbit 3", "tn": "ONF9Xv5DXrs", "cat_id": 2},
+            {"id": 11, "title": "Le Perv (Beta Mix) - Hotline Miami 2: Wrong Number", "tn": "c67AowYhOzY", "cat_id": 2},
+            
+            {"id": 12, "title": "Dictionary - Personal Trainer: Cooking", "tn": "K3X5q9rmisc", "cat_id": 3},
+            {"id": 13, "title": "The Big One - Imagine: Master Chef", "tn": "6q8vzKvKs1Y", "cat_id": 3},
+            {"id": 14, "title": "Your Customers - Papa's Pizzeria", "tn": "PIpHWcd01GU", "cat_id": 3},
+            {"id": 15, "title": "Let's Cook! - Cooking Mama 3: Shop & Chop", "tn": "kcLaXwV3_Oo", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips by RHMan"},
+            {"id": 1, "title": "Maki Nishikino's Birthday"},
+            {"id": 2, "title": "Rips featuring Maroon 5"},
+            {"id": 3, "title": "Cooking Games"}
+        ]
+    },
+    
+    "24/7/2024": {
+        "label": "Today's puzzle is designed by: minindo!",
+        "items": [
+            {"id": 0, "title": "The Monkeys' Maze (Unused Version) - EarthBound", "tn": "QZmcaEyomyQ", "cat_id": 2},
+            {"id": 1, "title": "The Monkeys' Maze (CD Version) - EarthBound", "tn": "H2yhOFY9Wbs", "cat_id": 2},
+            {"id": 2, "title": "Emote: Advanced Math (Beta Mix) - Fortnite", "tn": "_hNRpI4-B8I", "cat_id": 2},
+            {"id": 3, "title": "Opening Cutscene - Hotel", "tn": "bamLA2ybOJk", "cat_id": 2},
+            
+            {"id": 4, "title": "A Pandemic-Ending Announcement (PSY 9th Arrangements Out Now!)", "tn": "mCQKvZXRwM8", "cat_id": 2},
+            {"id": 5, "title": "Donkey Kong Jr. Math Music - +-×÷ Exercise", "tn": "cpSC-bznqnU", "cat_id": 2},
+            {"id": 6, "title": "Luigi Mansion - Hoops 3-on-3", "tn": "QzQme3Hq9l8", "cat_id": 2},
+            {"id": 7, "title": "Gato's Song (OST Mix) - Chrono Trigger", "tn": "zg3T62wx6tw", "cat_id": 2},
+
+            {"id": 8, "title": "Wii Sports Menu - Wii Sports", "tn": "1RUL3oLgmLc", "cat_id": 1},
+            {"id": 9, "title": "Wind Scene (Short Version) - Chrono Trigger", "tn": "wdCjp6KszuE", "cat_id": 1},
+            {"id": 10, "title": "We Are Number One - Undertale 3", "tn": "cWeNsYdVnPY", "cat_id": 1},
+            {"id": 11, "title": "Wario's Gold Mine (Alpha Version) - Mario Kart Wii", "tn": "_VaD6aL7KvU", "cat_id": 1},
+            
+            {"id": 12, "title": "Moonview Highway (Alpha Mix) - Mario Kart Wii", "tn": "Dgx-720uSUA", "cat_id": 0},
+            {"id": 13, "title": "The Monkeys' Maze (Beta Mix) - EarthBound", "tn": "kAMY9pJrxMc", "cat_id": 0},
+            {"id": 14, "title": "Burn! Bobonga! (KR Version) - Chrono Trigger", "tn": "XCeSLtorrAE", "cat_id": 0},
+            {"id": 15, "title": "Aria Math (PAL-M Version) - Minecraft", "tn": "Is_kSP43Kig", "cat_id": 0}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips by Madinstance"},
+            {"id": 1, "title": "Rips featuring Skibidi Toilet"},
+            {"id": 2, "title": "Renamed Videos"},
+            {"id": 3, "title": "Featured Videos"}
+        ]
+    },
+    
     "xx/xx/2024": {
         "label": "",
         "items": [
