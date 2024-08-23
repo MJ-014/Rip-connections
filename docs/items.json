@@ -315,25 +315,25 @@
     "24/7/2024": {
         "label": "",
         "items": [
-            {"id": 0, "title": "Accountant Assault - WarioWare: Touched!", "tn": "https://www.youtube.com/watch?v=9Dmsc83DUhU", "cat_id": 0},
-            {"id": 1, "title": "So Many Machines! - Mario Party 10", "tn": "https://www.youtube.com/watch?v=yyk5l76mj5s", "cat_id": 0},
-            {"id": 2, "title": "Robots FTW - Portal 2", "tn": "https://www.youtube.com/watch?v=jmbAuEbxXZI", "cat_id": 0},
-            {"id": 3, "title": "Run (Beta Version) - Hotline Miami 2: Wrong Number", "tn": "https://www.youtube.com/watch?v=-H0uZl2rIyI", "cat_id": 0},
+            {"id": 0, "title": "Accountant Assault - WarioWare: Touched!", "tn": "9Dmsc83DUhU", "cat_id": 0},
+            {"id": 1, "title": "So Many Machines! - Mario Party 10", "tn": "yyk5l76mj5s", "cat_id": 0},
+            {"id": 2, "title": "Robots FTW - Portal 2", "tn": "jmbAuEbxXZI", "cat_id": 0},
+            {"id": 3, "title": "Run (Beta Version) - Hotline Miami 2: Wrong Number", "tn": "-H0uZl2rIyI", "cat_id": 0},
             
-            {"id": 4, "title": "BUTTERFLY - DanceDanceRevolution", "tn": "https://www.youtube.com/watch?v=g_uV2x85RZM", "cat_id": 1},
-            {"id": 5, "title": "Lady (Hear Me Tonight) - Grand Theft Auto V", "tn": "https://www.youtube.com/watch?v=yTsasCA4yuU", "cat_id": 1},
-            {"id": 6, "title": "Language - Forza Horizon", "tn": "https://www.youtube.com/watch?v=FrqN_guwZ90", "cat_id": 1},
-            {"id": 7, "title": "Through The Fire And Flames (PC Release) - Guitar Hero III: Legends of Rock", "tn": "https://www.youtube.com/watch?v=dpzgVcRBKsQ", "cat_id": 1},
+            {"id": 4, "title": "BUTTERFLY - DanceDanceRevolution", "tn": "g_uV2x85RZM", "cat_id": 1},
+            {"id": 5, "title": "Lady (Hear Me Tonight) - Grand Theft Auto V", "tn": "yTsasCA4yuU", "cat_id": 1},
+            {"id": 6, "title": "Language - Forza Horizon", "tn": "FrqN_guwZ90", "cat_id": 1},
+            {"id": 7, "title": "Through The Fire And Flames (PC Release) - Guitar Hero III: Legends of Rock", "tn": "dpzgVcRBKsQ", "cat_id": 1},
 
-            {"id": 8, "title": "All-Star Rest Area - Smash Remix", "tn": "https://www.youtube.com/watch?v=nFCiMfnyk3g", "cat_id": 2},
-            {"id": 9, "title": "Nokia Ringtone - Mario's Mystery Meat", "tn": "https://www.youtube.com/watch?v=rIVu6RuKBQY", "cat_id": 2},
-            {"id": 10, "title": "Freezing Cold Crevasse - Super Mario 64 (Build 3313)", "tn": "https://www.youtube.com/watch?v=X2n_I72YwEE", "cat_id": 2},
-            {"id": 11, "title": "Rage Against the Machine - UNDERTALE: Halloween Hack", "tn": "https://www.youtube.com/watch?v=_fbNOmjytlw", "cat_id": 2},
+            {"id": 8, "title": "All-Star Rest Area - Smash Remix", "tn": "nFCiMfnyk3g", "cat_id": 2},
+            {"id": 9, "title": "Nokia Ringtone - Mario's Mystery Meat", "tn": "rIVu6RuKBQY", "cat_id": 2},
+            {"id": 10, "title": "Freezing Cold Crevasse - Super Mario 64 (Build 3313)", "tn": "X2n_I72YwEE", "cat_id": 2},
+            {"id": 11, "title": "Rage Against the Machine - UNDERTALE: Halloween Hack", "tn": "_fbNOmjytlw", "cat_id": 2},
             
-            {"id": 12, "title": "Dancing Mad (Abridged Mix) - Final Fantasy VI", "tn": "https://www.youtube.com/watch?v=xs7f4GXZP8g", "cat_id": 3},
-            {"id": 13, "title": "Sweet Soul Brother - Jet Set Radio", "tn": "https://www.youtube.com/watch?v=NsjQfgnuWEA", "cat_id": 3},
-            {"id": 14, "title": "Aquatic Ambience (Unused Version) - Donkey Kong Country", "tn": "https://www.youtube.com/watch?v=NvSjHe4S2oc", "cat_id": 3},
-            {"id": 15, "title": "Like It Like This Like That (Beta Mix) - Jet Set Radio Future", "tn": "https://www.youtube.com/watch?v=EY9fLa6cSvg", "cat_id": 3}
+            {"id": 12, "title": "Dancing Mad (Abridged Mix) - Final Fantasy VI", "tn": "xs7f4GXZP8g", "cat_id": 3},
+            {"id": 13, "title": "Sweet Soul Brother - Jet Set Radio", "tn": "NsjQfgnuWEA", "cat_id": 3},
+            {"id": 14, "title": "Aquatic Ambience (Unused Version) - Donkey Kong Country", "tn": "NvSjHe4S2oc", "cat_id": 3},
+            {"id": 15, "title": "Like It Like This Like That (Beta Mix) - Jet Set Radio Future", "tn": "EY9fLa6cSvg", "cat_id": 3}
         ],
 
         "groups": [
