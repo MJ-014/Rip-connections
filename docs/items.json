@@ -347,10 +347,10 @@
     "25/7/2024": {
         "label": "Today's puzzle is designed by: minindo!",
         "items": [
-            {"id": 0, "title": "The Monkeys' Maze (Unused Version) - EarthBound", "tn": "QZmcaEyomyQ", "cat_id": 2},
-            {"id": 1, "title": "The Monkeys' Maze (CD Version) - EarthBound", "tn": "H2yhOFY9Wbs", "cat_id": 2},
-            {"id": 2, "title": "Emote: Advanced Math (Beta Mix) - Fortnite", "tn": "_hNRpI4-B8I", "cat_id": 2},
-            {"id": 3, "title": "Opening Cutscene - Hotel", "tn": "bamLA2ybOJk", "cat_id": 2},
+            {"id": 0, "title": "The Monkeys' Maze (Unused Version) - EarthBound", "tn": "QZmcaEyomyQ", "cat_id": 3},
+            {"id": 1, "title": "The Monkeys' Maze (CD Version) - EarthBound", "tn": "H2yhOFY9Wbs", "cat_id": 3},
+            {"id": 2, "title": "Emote: Advanced Math (Beta Mix) - Fortnite", "tn": "_hNRpI4-B8I", "cat_id": 3},
+            {"id": 3, "title": "Opening Cutscene - Hotel", "tn": "bamLA2ybOJk", "cat_id": 3},
             
             {"id": 4, "title": "A Pandemic-Ending Announcement (PSY 9th Arrangements Out Now!)", "tn": "mCQKvZXRwM8", "cat_id": 2},
             {"id": 5, "title": "Donkey Kong Jr. Math Music - +-×÷ Exercise", "tn": "cpSC-bznqnU", "cat_id": 2},
