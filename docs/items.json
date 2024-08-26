@@ -376,6 +376,38 @@
         ]
     },
     
+    "26/7/2024": {
+        "label": "Today's SGFR themed puzzle is designed by: sabybeal!",
+        "items": [
+            {"id": 0, "title": "Like A Pebble Off The Flintstone", "tn": "35Ta60cTY5Y", "cat_id": 0},
+            {"id": 1, "title": "The Only Thing I Know For Real (Blancblack Mix)", "tn": "ADdx1WmfUYE", "cat_id": 0},
+            {"id": 2, "title": "AC!D TACT!CS", "tn": "1LVbKZZ_Hlw", "cat_id": 0},
+            {"id": 3, "title": "Voyage of Beauty & Destruction", "tn": "WXBpxXPIncw", "cat_id": 0},
+            
+            {"id": 4, "title": "BLAST OFF!!!", "tn": "Fek8s4ZqjI4", "cat_id": 1},
+            {"id": 5, "title": "Pepsicore", "tn": "8c-TbApEu2o", "cat_id": 1},
+            {"id": 6, "title": "1", "tn": "xXlE59VuUiA", "cat_id": 1},
+            {"id": 7, "title": "Menu Theme (Finnsfolks Remix)", "tn": "IG-zqcsDprg", "cat_id": 1},
+
+            {"id": 8, "title": "The Paragoomba and the Wiggler", "tn": "G8mf_sRHVzc", "cat_id": 2},
+            {"id": 9, "title": "Tidal Adventures Forever", "tn": "RSR-e7fBVec", "cat_id": 2},
+            {"id": 10, "title": "Nuclear (Wild)", "tn": "iD2kB1uFISc", "cat_id": 2},
+            {"id": 11, "title": "Can’t Defuse My Soul", "tn": "GIHLjDpwi9M", "cat_id": 2},
+            
+            {"id": 12, "title": "Mountain Made of Candy", "tn": "aNDSHDA2ncs", "cat_id": 3},
+            {"id": 13, "title": "Tara Are You Okay?", "tn": "6bbPyPwjpPI", "cat_id": 3},
+            {"id": 14, "title": "are you entertained????????????????????????", "tn": "j1zSRA4u-tk", "cat_id": 3},
+            {"id": 15, "title": "Watch for risky rocks !!", "tn": "64zqR8GJb74", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Arrangements by Sebastian Kingsley"},
+            {"id": 1, "title": "Opening Arrangements"},
+            {"id": 2, "title": "Arrangements with Original Vocals"},
+            {"id": 3, "title": "Non-RIP² Arrangements Referencing Rips"}
+        ]
+    },
+    
     "xx/xx/2024": {
         "label": "",
         "items": [
