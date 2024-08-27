@@ -408,6 +408,38 @@
         ]
     },
     
+    "27/7/2024": {
+        "label": "Today's puzzle is designed by: Myeauxyoozi!",
+        "items": [
+            {"id": 0, "title": "Title Screen (Rainbow Dash Mix) - My Little Pony: Friendship Is Magic", "tn": "1PgK71PqlQU", "cat_id": 0},
+            {"id": 1, "title": "World 5 Map - Kirby's Adventure", "tn": "0KZI5EENiuE", "cat_id": 0},
+            {"id": 2, "title": "DANGANRONPA (Reload Version) - Danganronpa: Trigger Happy Havoc", "tn": "TXcVy1w8LTM", "cat_id": 0},
+            {"id": 3, "title": "Road to Viridian City: Leaving Pallet Town (Pre-Alpha Mix) - Pokémon Red & Blue", "tn": "qct39dlY_AA", "cat_id": 0},
+            
+            {"id": 4, "title": "Ground Theme (Super Mario Bros.) - Super Smash Bros. UItimate", "tn": "AsK4beTqFNE", "cat_id": 1},
+            {"id": 5, "title": "Scarlet Forest - Deltarune", "tn": "GBqeJavZB9Y", "cat_id": 1},
+            {"id": 6, "title": "Gourmet Race (OST Version) - Kirby Super Star", "tn": "4sneo6twzmM", "cat_id": 1},
+            {"id": 7, "title": "Reach for the Moon, Immortal Smoke (OST Version) - Touhou 8: Imperishable Night", "tn": "x_a5E6JxjxM", "cat_id": 1},
+
+            {"id": 8, "title": "YOU GOT A MOON! 2 (8-Bit) - Super Mario Odyssey", "tn": "LDGQzEBYIW8", "cat_id": 2},
+            {"id": 9, "title": "Dogsong (Halloween Mix) - Undertale", "tn": "cdW2DPqKf74", "cat_id": 2},
+            {"id": 10, "title": "Gerudo Valley (Latin America Version) - The Legend of Zelda: Ocarina of Time", "tn": "_98BeLB38OY", "cat_id": 2},
+            {"id": 11, "title": "Bad Apple!! (Alternative Version) - Touhou 4: Lotus Land Story", "tn": "gr5eS50nrMs", "cat_id": 2},
+            
+            {"id": 12, "title": "Escaping the Prison Title Menu - The Henry Stickmin Collection", "tn": "5YCNiA83vtA", "cat_id": 3},
+            {"id": 13, "title": "Dwelling of Locks - Dwelling of Locks", "tn": "Eg7Q0YUtmLo", "cat_id": 3},
+            {"id": 14, "title": "Playing With Firepower - Terraria: Calamity Mod EXTRA", "tn": "MNpBnOnhn5M", "cat_id": 3},
+            {"id": 15, "title": "Journey in the Sky (Spider Den) - Hypixel SkyBlock", "tn": "8MMNh8y2mHM", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Pink Thumbnails"},
+            {"id": 1, "title": "Rips featuring the Beatles"},
+            {"id": 2, "title": "First Appearances of Channel Memes"},
+            {"id": 3, "title": "Rips by the Original Composer"}
+        ]
+    },
+    
     "xx/xx/2024": {
         "label": "",
         "items": [
