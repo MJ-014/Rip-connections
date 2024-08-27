@@ -440,6 +440,70 @@
         ]
     },
     
+    "28/7/2024": {
+        "label": "",
+        "items": [
+            {"id": 0, "title": "Game Over - Shin Megami Tensei If...", "tn": "CcYrVTWF4eE", "cat_id": 0},
+            {"id": 1, "title": "Maki's Theme ~ Bright - Revelations: Persona", "tn": "R-Ov1z0b3xs", "cat_id": 0},
+            {"id": 2, "title": "Snow Queen's Theme ~ Main - Revelations: Persona", "tn": "jy5DLvw6iBQ", "cat_id": 0},
+            {"id": 3, "title": "Maya's Theme - Persona 2: Innocent Sin", "tn": "c6Ttq_BPQ-0", "cat_id": 0},
+            
+            {"id": 4, "title": "Battle ~ Tesso - Revelations: Persona", "tn": "Mc98qC_1z_M", "cat_id": 1},
+            {"id": 5, "title": "Traumerei - Persona 4", "tn": "cbAqKebTorw", "cat_id": 1},
+            {"id": 6, "title": "Price - Persona 5 Royal", "tn": "F1AHz6M5gEM", "cat_id": 1},
+            {"id": 7, "title": "Sauna - Persona 4", "tn": "OXQg57Ow-Fg", "cat_id": 1},
+
+            {"id": 8, "title": "Striptease - Persona 4", "tn": "U3qTUUsPukI", "cat_id": 2},
+            {"id": 9, "title": "I'll Face Myself (Vocal Mix) - Persona 4", "tn": "ji3vKZgpszA", "cat_id": 2},
+            {"id": 10, "title": "The Voice Someone Calls - Persona 3", "tn": "tH6PoCMTV_E", "cat_id": 2},
+            {"id": 11, "title": "The Poem for Everyone's Souls - Persona 3", "tn": "xmuk0cKHSxQ", "cat_id": 2},
+            
+            {"id": 12, "title": "Memories of the City - Persona 3", "tn": "BJkGSTNI6xI", "cat_id": 3},
+            {"id": 13, "title": "Reach Out to the Truth -First Battle- (OST Version) - Persona 4", "tn": "UoWXk-6pbsk", "cat_id": 3},
+            {"id": 14, "title": "Time To Make History (Nintendo Switch Version) - Persona 4 Golden", "tn": "4AsMfoTnGWs", "cat_id": 3},
+            {"id": 15, "title": "The Whims of Fate - Persona 5", "tn": "zFegmtpmITQ", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips by Eva Twin"},
+            {"id": 1, "title": "Rips by YBC"},
+            {"id": 2, "title": "Rips featuring Loud Nigra"},
+            {"id": 3, "title": "Rips featured on \"SiIvaGunner's Highest Quality Rips: Volume DQ\" Album"}
+        ]
+    },
+    
+    "29/7/2024": {
+        "label": "Today's puzzle is designed by: Myeauxyoozi!",
+        "items": [
+            {"id": 0, "title": "Let's Go Fishing (Beta Mix) - Ultimate Angler / StreetPass Fishing", "tn": "E1ufaLOh7Ds", "cat_id": 0},
+            {"id": 1, "title": "Let's Go Together! (OST Version) - Pokémon Black & White", "tn": "QUvCQJCDMr0", "cat_id": 0},
+            {"id": 2, "title": "Reach for the Stars! - Tomodachi Life", "tn": "QoKfswupPdk", "cat_id": 0},
+            {"id": 3, "title": "Tutorial Time (Beta Mix) - Mario & Luigi Bowser's Inside Story", "tn": "EJa3_pJhY-E", "cat_id": 0},
+            
+            {"id": 4, "title": "Ice Kingdom Action (Alternate) - Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?!!", "tn": "9p14uGce7sk", "cat_id": 1},
+            {"id": 5, "title": "The Nightmare Woods (Run Run Rottytops!) (NTSC Version) - Shantae and the Pirate's Curse", "tn": "C0hAMpkXhCY", "cat_id": 1},
+            {"id": 6, "title": "Flowers of Antimony (The Explodatorium) (Beta Mix) - Shovel Knight", "tn": "jcDRzjyl5x4", "cat_id": 1},
+            {"id": 7, "title": "Dracula Duck - DuckTales: Remastered", "tn": "QyIFLLC7ri8", "cat_id": 1},
+
+            {"id": 8, "title": "Main Theme - Waluigi's Tacostand", "tn": "XsE6uopETzM", "cat_id": 2},
+            {"id": 9, "title": "Melody of the Hearts - Maroon GO", "tn": "tzuWS_7csX4", "cat_id": 2},
+            {"id": 10, "title": "Stalker - Duke Nukem 3D", "tn": "uHdUfOmKKqU", "cat_id": 2},
+            {"id": 11, "title": "Dr. Robotnik's Theme - Adventures of Sonic the Hedgehog (Unreleased)", "tn": "8gpccdF7Mzo", "cat_id": 2},
+            
+            {"id": 12, "title": "Stickerbush Symphony - Donkey Kong Country 2", "tn": "FDPzpMf1qEo", "cat_id": 3},
+            {"id": 13, "title": "Mr. Patch - Banjo-Tooie", "tn": "XR6SzXMKn0Q", "cat_id": 3},
+            {"id": 14, "title": "Game with Rabbit - Othello World", "tn": "kc31r7649sY", "cat_id": 3},
+            {"id": 15, "title": "Poem Panic! - Doki Doki Literature Club!", "tn": "4ydnVRSlKFE", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips by ItsGameBoy"},
+            {"id": 1, "title": "Composed by Jake Kaufman"},
+            {"id": 2, "title": "Haltmann's Archives"},
+            {"id": 3, "title": "Frequently Ripped Track Debuts"}
+        ]
+    },
+    
     "xx/xx/2024": {
         "label": "",
         "items": [
