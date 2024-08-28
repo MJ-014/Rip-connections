@@ -504,6 +504,102 @@
         ]
     },
     
+    "30/7/2024": {
+        "label": "Circus Edition",
+        "items": [
+            {"id": 0, "title": "Circus (In-Game Version) - Five Nights at Freddy's", "tn": "-6zpDZ99l4w", "cat_id": 0},
+            {"id": 1, "title": "Circus (Animixtation) - Five Nights at Freddy's", "tn": "AJJVpNBrb-8", "cat_id": 0},
+            {"id": 2, "title": "Circus (Fuck You Mix) - Five Nights at Freddy's", "tn": "HtPIOwfyJkw", "cat_id": 0},
+            {"id": 3, "title": "Circus (Eddie Mixphy) - Five Nights at Freddy's", "tn": "quncK-3M18Q", "cat_id": 0},
+            
+            {"id": 4, "title": "Circus (NES Version) - Five Nights at Freddy's", "tn": "BWss1uVWQqc", "cat_id": 1},
+            {"id": 5, "title": "Circus (SNES Version) - Five Nights at Freddy's", "tn": "LGyK9J53u_M", "cat_id": 1},
+            {"id": 6, "title": "Circus (Nintendo Switch Version) - Five Nights at Freddy's", "tn": "m_6FOiYY5mo", "cat_id": 1},
+            {"id": 7, "title": "Circus (PS4 Version) - Five Nights at Freddy's", "tn": "X1FAco5zrSY", "cat_id": 1},
+
+            {"id": 8, "title": "Circus (Fuckin' Bustin the Nut Before You Manage to Pull Out Mix) - Five Nights at Freddy's", "tn": "g24kNfxsBGE", "cat_id": 2},
+            {"id": 9, "title": "Circus (I'm Over Here Stroking My Mix I Got Lotion On My Mix) - Five Nights at Freddy's", "tn": "Pc6BAJ8z8jk", "cat_id": 2},
+            {"id": 10, "title": "Circus (Horny On Mix) - Five Nights at Freddy's", "tn": "-bNg222vXMQ", "cat_id": 2},
+            {"id": 11, "title": "Circus (I Am Fucking Your Mom Edition) - Five Nights at Freddy's", "tn": "Dqt3ORlLeyM", "cat_id": 2},
+            
+            {"id": 12, "title": "Circus (Out of Mixes) - Five Nights at Freddy's", "tn": "Tq7Zj18r_tA", "cat_id": 3},
+            {"id": 13, "title": "Circus (Non-Analog Release) - Five Nights at Freddy's", "tn": "7el7jm1iJE8", "cat_id": 3},
+            {"id": 14, "title": "Circus (Census Desmixnated) - Five Nights at Freddy's", "tn": "Sk2K8E9qrqI", "cat_id": 3},
+            {"id": 15, "title": "Circus (Trending FYP 2024 Version) - Five Nights at Freddy's", "tn": "MjE3ESyWtLk", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Circus Rips featuring Lemon Demon"},
+            {"id": 1, "title": "Circus Rips with Consoles in Mixname"},
+            {"id": 2, "title": "NSFW Mixnames"},
+            {"id": 3, "title": "Non-Switcheroo Circus Rips"}
+        ]
+    },
+    
+    "31/7/2024": {
+        "label": "Today's grand puzzle is designed by: BigBadBlob!",
+        "items": [
+            {"id": 0, "title": "Bicycle - Pokémon HeartGold & SoulSilver", "tn": "0EeDeCkgroc", "cat_id": 0},
+            {"id": 1, "title": "Because I Love You - EarthBound", "tn": "Y1Ci-yHFKsc", "cat_id": 0},
+            {"id": 2, "title": "Bonus Screen - Super Mario World", "tn": "fnSCaegjZdo", "cat_id": 0},
+            {"id": 3, "title": "Game Corner - Pokémon Diamond & Pearl", "tn": "JWeFAdz11IQ", "cat_id": 0},
+            
+            {"id": 4, "title": "Circus (Beta Mix) - Five Nights at Freddy's", "tn": "gs0EsGDyYZM", "cat_id": 1},
+            {"id": 5, "title": "Against the Black Knight (Beta Mix) - Super Smash Bros. Brawl", "tn": "kf3giTkRGGI", "cat_id": 1},
+            {"id": 6, "title": "6 AM (In-Game Version) - Five Nights at Freddy's 3", "tn": "pYQNT3tX5rM", "cat_id": 1},
+            {"id": 7, "title": "Darkness - Amnesia: The Dark Descent", "tn": "UKbx00OpUBo", "cat_id": 1},
+
+            {"id": 8, "title": "Green Greens - Kirby's Dream Land", "tn": "IfwHfzefQYw", "cat_id": 2},
+            {"id": 9, "title": "Ice Cream Island - Kirby: Nightmare in Dream Land", "tn": "iLwx-qeoRNo", "cat_id": 2},
+            {"id": 10, "title": "Kirby's Triumphant Return - Kirby Super Star", "tn": "_bipEgwAqF4", "cat_id": 2},
+            {"id": 11, "title": "Street Paved with Kindness - Kirby Star Allies", "tn": "8EtqlL1EzpU", "cat_id": 2},
+            
+            {"id": 12, "title": "Main Menu - Sexy Hiking", "tn": "8Azb3qIR2rw", "cat_id": 3},
+            {"id": 13, "title": "Overworld (Beta Mix) - Super Mario Bros. Wonder", "tn": "8mSIgkKLSO4", "cat_id": 3},
+            {"id": 14, "title": "The Lost Luma - Super Mario Galaxy 2", "tn": "Zc0LnVC7LQs", "cat_id": 3},
+            {"id": 15, "title": "Main Theme - Star Trek Voyager: Elite Force", "tn": "MWgTbG4oDs0", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Off-Key rips"},
+            {"id": 1, "title": "Switcheroos"},
+            {"id": 2, "title": "Kirby Rips"},
+            {"id": 3, "title": "Rips on The Year of Grand Dad Sound Selection (A and B)"}
+        ]
+    },
+    
+    "1/8/2024": {
+        "label": "Today's puzzle is designed by: sabybeal!",
+        "items": [
+            {"id": 0, "title": "Factory Theme (OST Version) - Just Shapes & Beats", "tn": "5lgqc-EzI-Q", "cat_id": 0},
+            {"id": 1, "title": "Styx and Stones (4-1) (Alternate Version) - Crypt of the NecroDancer", "tn": "nHPMG7NRzCU", "cat_id": 0},
+            {"id": 2, "title": "My Life is for You - Muse Dash", "tn": "9hjQWRhUl2w", "cat_id": 0},
+            {"id": 3, "title": "Ya! Party! - DJMAX Online", "tn": "GC0HLlKuaOo", "cat_id": 0},
+            
+            {"id": 4, "title": "Mantis (Explore) - FTL: Faster Than Light", "tn": "lKfjuBgUtwY", "cat_id": 1},
+            {"id": 5, "title": "9来4s - Guilty Crown: Lost Christmas", "tn": "S3TyKfU3mRI", "cat_id": 1},
+            {"id": 6, "title": "NYC Streets (OST Version) - Deus Ex", "tn": "Hvbyq4ch7Hg", "cat_id": 1},
+            {"id": 7, "title": "mus_tv (In-Game Version) - Undertale", "tn": "moFI8axduXE", "cat_id": 1},
+
+            {"id": 8, "title": "Block Party Boogie - Find Everything", "tn": "XJSC0P9I0gw", "cat_id": 2},
+            {"id": 9, "title": "We Are Immortal - MetaWare High School (Demo)", "tn": "-b4I9OoatJg", "cat_id": 2},
+            {"id": 10, "title": "Victory - Gooey - Rivals of Aether Workshop: Gooey", "tn": "Z8b3YBlQ_pw", "cat_id": 2},
+            {"id": 11, "title": "Jersey Nova - REGRETEVATOR", "tn": "X5OyYeWHFx8", "cat_id": 2},
+            
+            {"id": 12, "title": "Minutes to Midnight - Hearts of Iron IV: The New Order: Last Days of Europe Mod", "tn": "AfNqdpOAVo0", "cat_id": 3},
+            {"id": 13, "title": "Future Club - Hotline Miami 2: Wrong Number", "tn": "-119TYQDpOQ", "cat_id": 3},
+            {"id": 14, "title": "Pepper Steak (SECAM Version) - OFF", "tn": "ulvvQHD4184", "cat_id": 3},
+            {"id": 15, "title": "DJ Music Man (Beta Version) - Five Nights at Freddy's: Security Breach", "tn": "A1vNFcRGUGg", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rhythm Game Rips"},
+            {"id": 1, "title": "Rips featured in the CCC Soundtrack"},
+            {"id": 2, "title": "Rips of Songs by SiIvaGunner Members"},
+            {"id": 3, "title": "Rips featuring Ed Banger Records Songs"}
+        ]
+    },
+    
     "xx/xx/2024": {
         "label": "",
         "items": [
