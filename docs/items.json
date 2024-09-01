@@ -600,6 +600,38 @@
         ]
     },
     
+    "2/8/2024": {
+        "label": "Today's puzzle is designed by: memmy!",
+        "items": [
+            {"id": 0, "title": "Beginner's Sailing - Love Live! School idol festival", "tn": "ehaf2s0obLE", "cat_id": 0},
+            {"id": 1, "title": "Termina Field (Majora's Mask) - Zelda Series for Guitar", "tn": "Zd_i5cKPcnk", "cat_id": 0},
+            {"id": 2, "title": "Main Theme - Sailor Moon", "tn": "VVDRKiASZZk", "cat_id": 0},
+            {"id": 3, "title": "Katamari on the Funk - Me and My Katamari", "tn": "hn4Utq4X9zg", "cat_id": 0},
+            
+            {"id": 4, "title": "Moonview Highway (Alpha Mix) - Mario Kart Wii", "tn": "Dgx-720uSUA", "cat_id": 1},
+            {"id": 5, "title": "Mega Man 9 - Jewel Temptation (Jewel Man's Stage) - Invictus", "tn": "rm9W4ed87Ts", "cat_id": 1},
+            {"id": 6, "title": "Komm, süsser Tod (TV Size) - Neon Genesis Evangelion 64", "tn": "vM4SA0ul_Ww", "cat_id": 1},
+            {"id": 7, "title": "The Twisted One (Beta Mix) - Garten of Banban 2", "tn": "snKHE4q36Wg", "cat_id": 1},
+
+            {"id": 8, "title": "A Real Boy! - Deltarune", "tn": "mh1sD5ZPkPk", "cat_id": 2},
+            {"id": 9, "title": "Sinking - OMORI", "tn": "Xq9gE0P4myM", "cat_id": 2},
+            {"id": 10, "title": "Circus (RJ's I Can Barely Sleep In This Casino Remix) - Five Nights at Freddy's", "tn": "cwFWTe12ipE", "cat_id": 2},
+            {"id": 11, "title": "The Forlorn Sanctum (Tower Lair) - Shovel Knight", "tn": "SIoAnJuMRvw", "cat_id": 2},
+            
+            {"id": 12, "title": "Meta Knight's Theme - Kirby Super Star Ultra", "tn": "m7LqSiTppjE", "cat_id": 3},
+            {"id": 13, "title": "TRAILS OF ADVENTURE - One Piece: Pirate Warriors 3", "tn": "QXTNQxB08yc", "cat_id": 3},
+            {"id": 14, "title": "A Very Small Wish - Kingdom Hearts: Chain of Memories", "tn": "5fTjdlr0BKk", "cat_id": 3},
+            {"id": 15, "title": "What's on the Radio? - Maroon GO", "tn": "-9-kx0Gqn9E", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Album Releases with a Feature Credit"},
+            {"id": 1, "title": "Even Rips without a Release on Their Respective Event Album"},
+            {"id": 2, "title": "Album Releases Referencing the SiIvaGunner Wiki"},
+            {"id": 3, "title": "Album Releases Replacing Other Tracks on Albums"}
+        ]
+},
+
     "xx/xx/2024": {
         "label": "",
         "items": [
