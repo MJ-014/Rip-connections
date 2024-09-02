@@ -632,6 +632,38 @@
         ]
 },
 
+    "3/8/2024": {
+        "label": "Today's puzzle is designed by: sabybeal!",
+        "items": [
+            {"id": 0, "title": "Not So, Sou B - Your Turn To Die -Death Game By Majority", "tn": "NQxvBW4blf8", "cat_id": 0},
+            {"id": 1, "title": "Bask in the Sun (Alternate Mix) - Yume Nikki", "tn": "COM1hwtdDks", "cat_id": 0},
+            {"id": 2, "title": "Library Stroll (Album Version) - OneShot", "tn": "mQDi3369LcY", "cat_id": 0},
+            {"id": 3, "title": "Dining Room - Ib", "tn": "3qsKaoiXq1o", "cat_id": 0},
+            
+            {"id": 4, "title": "Keygenitor (Beta Mix) - Star of Providence", "tn": "uYuASP2gaO8", "cat_id": 1},
+            {"id": 5, "title": "Sand Canyon 1 (Sigma Mix) - Kirby's Dream Land 3", "tn": "abEK0-vu7d0", "cat_id": 1},
+            {"id": 6, "title": "\"OK desu ka?\" (Lambda Mix) - EarthBound", "tn": "G7t7C1hy-QI", "cat_id": 1},
+            {"id": 7, "title": "Cool Edge (Day) (Epsilon Mix) - Sonic Unleashed", "tn": "TAknteuTf-I", "cat_id": 1},
+
+            {"id": 8, "title": "SILVER LINING (Remastered) - ESCHATOS", "tn": "zBRj8HC2YmA", "cat_id": 2},
+            {"id": 9, "title": "YO-KAI Disco (Hell's Entrance World) (Alternetive Mix) - Mamorukun Curse!", "tn": "rab82k-1XcQ", "cat_id": 2},
+            {"id": 10, "title": "Opposing Force - Eijukugo Target 1000 DS", "tn": "iNrBJVbq8Cs", "cat_id": 2},
+            {"id": 11, "title": "Victim (Trial 1) - Technic Beat", "tn": "SagbFm2yxO8", "cat_id": 2},
+            
+            {"id": 12, "title": "Tokkou Yarou - Super Robot Wars W", "tn": "LgSBjk77J0A", "cat_id": 3},
+            {"id": 13, "title": "Set Completed - Home Improvement: Power Tool Pursuit!", "tn": "ZImnRl5_UPE", "cat_id": 3},
+            {"id": 14, "title": "Boss Fight (Unused Version) - Baby Felix Halloween", "tn": "0-KiV_DsCiM", "cat_id": 3},
+            {"id": 15, "title": "Wanted Person Battle - Metal Saga", "tn": "E2HpU4nIyG8", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips of RPGMaker Games"},
+            {"id": 1, "title": "Greek Alphabet Mixnames"},
+            {"id": 2, "title": "Composed by Yousuke Yasui"},
+            {"id": 3, "title": "Box Art Thumbnails"}
+        ]
+    },
+
     "xx/xx/2024": {
         "label": "",
         "items": [
