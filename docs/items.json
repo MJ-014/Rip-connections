@@ -664,6 +664,38 @@
         ]
     },
 
+    "4/8/2024": {
+        "label": "Today's Smooth themed puzzle is designed by: cricket!",
+        "items": [
+            {"id": 0, "title": "12:13 A.M. - Slender: The Eight Pages", "tn": "Bs4_6KUciKA", "cat_id": 0},
+            {"id": 1, "title": "A Hot Onennouncement", "tn": "2ma2FNq8aFM", "cat_id": 0},
+            {"id": 2, "title": "Meeting with Haltmann - Kirby Planet Robobot", "tn": "dQBTAhEBjl4", "cat_id": 0},
+            {"id": 3, "title": "Agent Yoru o Yuku - THE iDOLM@STER", "tn": "6cn9ewsm8pg", "cat_id": 0},
+            
+            {"id": 4, "title": "Meta Knight Defeated - Kirby Super Star", "tn": "Dk9SXmz4Rxw", "cat_id": 1},
+            {"id": 5, "title": "Lava Reef Zone Act 1 - Sonic Mania", "tn": "XIuwa_bdNN4", "cat_id": 1},
+            {"id": 6, "title": "Lava Reef Zone Act 1 - Sonic Mania", "tn": "7VYi9lvD1cM", "cat_id": 1},
+            {"id": 7, "title": "Milky (Alternate Mix) - Bomberman Hero", "tn": "mfh-CIxD6xE", "cat_id": 1},
+
+            {"id": 8, "title": "Paced Energy - VVVVVV", "tn": "tjjymrcCvq8", "cat_id": 2},
+            {"id": 9, "title": "We Are Number One but it's a Fusion Collab", "tn": "7UeDMqQalyc", "cat_id": 2},
+            {"id": 10, "title": "Guided Tour - Credits - Sonic Mania", "tn": "jENsUKIoWjs", "cat_id": 2},
+            {"id": 11, "title": "Main Theme (Beta Mix) - e", "tn": "qKYH4RYYM5A", "cat_id": 2},
+            
+            {"id": 12, "title": "Bomb-Sniffing Pomeranian - Rhythm Doctor", "tn": "y-rR25W2388", "cat_id": 3},
+            {"id": 13, "title": "Piercing the Sky (OST Version) - VVVVVV", "tn": "yGAs_ZkPQXE", "cat_id": 3},
+            {"id": 14, "title": "Route 228 (Night) - Pokémon Diamond & Pearl", "tn": "dLLDvcp4lsM", "cat_id": 3},
+            {"id": 15, "title": "Artificial Intelligence Bomb", "tn": "RfB7rj6ekfs", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips with Original Voice Work"},
+            {"id": 1, "title": "Advertised Tracks with SGFR Arrangements"},
+            {"id": 2, "title": "Rips with Logo Edits"},
+            {"id": 3, "title": "Rips Released on Albums First"}
+        ]
+    },
+
     "xx/xx/2024": {
         "label": "",
         "items": [
