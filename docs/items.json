@@ -728,8 +728,40 @@
         ]
     },
 
-    "xx/xx/2024": {
-        "label": "",
+    "5/8/2024": {
+        "label": "The Final Rip Connection",
+        "items": [
+            {"id": 0, "title": "1-Up - Super Mario Bros. 3", "tn": "rr9QBe5GLEk", "cat_id": 0},
+            {"id": 1, "title": "Circus - Five Nights at Freddy's", "tn": "BntoXQk7o7k", "cat_id": 0},
+            {"id": 2, "title": "Haunted House - 8-Bit Beast's Haunted House", "tn": "_VWKgobkWD8", "cat_id": 0},
+            {"id": 3, "title": "I'm a Spy ...for Security Hall - Sonic Adventure 2", "tn": "0Qu2viMOEQc", "cat_id": 0},
+            
+            {"id": 4, "title": "Main Theme - Seven: The Days Long Gone", "tn": "f39TakijdTU", "cat_id": 1},
+            {"id": 5, "title": "3AM - Animal Crossing: New Horizons", "tn": "mWTPxOsJi34", "cat_id": 1},
+            {"id": 6, "title": "The Party Begins... (Beta Mix)", "tn": "vXiemfQI7R4", "cat_id": 1},
+            {"id": 7, "title": "All Clear - Sneak King", "tn": "mmoUAq1zrUA", "cat_id": 1},
+
+            {"id": 8, "title": "Determination - Undertale", "tn": "IvQbLrWlQYU", "cat_id": 2},
+            {"id": 9, "title": "Game Over (Beta Mix) - Metal Gear Solid", "tn": "Id3AM3V9rxo", "cat_id": 2},
+            {"id": 10, "title": "Game Over - Rhythm Heaven", "tn": "pm-OPciZh7w", "cat_id": 2},
+            {"id": 11, "title": "Game Over (Don't Stop) - Friday Night Funkin'", "tn": "RcBOIuNDOk8", "cat_id": 2},
+            
+            {"id": 12, "title": "Outrun the Nightmare - Temple of the Ninja Masters", "tn": "OqQMNz6f-QE", "cat_id": 3},
+            {"id": 13, "title": "It Doesn't Matter - Sonic Adventure", "tn": "VBBGoNUDFXM", "cat_id": 3},
+            {"id": 14, "title": "Snow halation - Love Live! School idol festival 2 MIRACLE LIVE!", "tn": "BKXALT0YFqQ", "cat_id": 3},
+            {"id": 15, "title": "Revenge of the King Ending (Worldwide Version) - Kirby Super Star Ultra", "tn": "4XUnO0VzKCk", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Unedited Rips"},
+            {"id": 1, "title": "Subject Removal Rips"},
+            {"id": 2, "title": "Game Over Rips"},
+            {"id": 3, "title": "Rips featuring songs with \"The End\" in Their Title"}
+        ]
+    },
+    
+    "6/8/2024": {
+        "label": "You're still here? It's over. Go home.",
         "items": [
             {"id": 0, "title": "", "tn": "", "cat_id": 0},
             {"id": 1, "title": "", "tn": "", "cat_id": 0},
