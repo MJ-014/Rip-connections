@@ -696,6 +696,38 @@
         ]
     },
 
+    "5/8/2024": {
+        "label": "FFVII Edition",
+        "items": [
+            {"id": 0, "title": "Ahead on Our Way (Short Version) - Final Fantasy VII", "tn": "M_iWlH2OAng", "cat_id": 0},
+            {"id": 1, "title": "Crazy Motorcycle Chase - Final Fantasy VII", "tn": "q2N1wKoKj9o", "cat_id": 0},
+            {"id": 2, "title": "J-E-N-O-V-A (In-Game Version) - Final Fantasy VII", "tn": "_judOVfYC7w", "cat_id": 0},
+            {"id": 3, "title": "Those Who Fight (In-Game Version) - Final Fantasy VII", "tn": "jw9OGbHcAhg", "cat_id": 0},
+            
+            {"id": 4, "title": "Aerith's Theme (Alternate Mix) - Final Fantasy VII", "tn": "n2RsOfGdr-g", "cat_id": 1},
+            {"id": 5, "title": "J-E-N-O-V-A (NTSC Version) - Final Fantasy VII", "tn": "q6V7xeUw0rU", "cat_id": 1},
+            {"id": 6, "title": "Jenova Absolute - Final Fantasy VII", "tn": "1YNfwd4KxM0", "cat_id": 1},
+            {"id": 7, "title": "One-Winged Angel (Extended Mix) - Final Fantasy VII", "tn": "KU4fK0OSUGk", "cat_id": 1},
+
+            {"id": 8, "title": "Electric de Chocobo - Final Fantasy VII", "tn": "rDsGjcoAwL0", "cat_id": 2},
+            {"id": 9, "title": "Electric de Chocobo (NTSC Version) - Final Fantasy VII", "tn": "JkDnTrI4xJg", "cat_id": 2},
+            {"id": 10, "title": "One-Winged Angel (In-Game Version) - Final Fantasy VII", "tn": "YuKxE4Yu-9g", "cat_id": 2},
+            {"id": 11, "title": "Those Who Fight - Final Fantasy VII", "tn": "RyQKDBUmb-0", "cat_id": 2},
+            
+            {"id": 12, "title": "J-E-N-O-V-A - Final Fantasy VII", "tn": "nP2DofH9d2k", "cat_id": 3},
+            {"id": 13, "title": "One-Winged Angel (OST Version) - Final Fantasy VII", "tn": "YSCpNkuu04A", "cat_id": 3},
+            {"id": 14, "title": "One-Winged Angel (Vocal Mix) - Final Fantasy VII", "tn": "t9_OWNpugzI", "cat_id": 3},
+            {"id": 15, "title": "Those Who Fight (Vocal Mix) - Final Fantasy VII", "tn": "bPGqEU67xnQ", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Rips by eg_9371"},
+            {"id": 1, "title": "Final Fantasy 35th Anniversary"},
+            {"id": 2, "title": ""},
+            {"id": 3, "title": "Cover Rips"}
+        ]
+    },
+
     "xx/xx/2024": {
         "label": "",
         "items": [
