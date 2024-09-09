@@ -854,5 +854,37 @@
             {"id": 2, "title": "Category names containing months of the year"},
             {"id": 3, "title": "Categories related to art"}
         ]
+    },
+    
+    "10/8/2024": {
+        "label": "...?",
+        "items": [
+            {"id": 0, "title": "w:c:zelda:Lost Woods", "tn": "MPAKqzq_Uz0", "cat_id": 0},
+            {"id": 1, "title": "w:c:undertale:Heartache", "tn": "sf7OJFwz_yY", "cat_id": 0},
+            {"id": 2, "title": "w:c:spongebob-new-fanon:Fight Against an Armed Boss", "tn": "2MMv_HcPv2o", "cat_id": 0},
+            {"id": 3, "title": "w:c:super-vgm:Inside the Castle Walls", "tn": "fdSNUwWIV20", "cat_id": 0},
+            
+            {"id": 4, "title": "w:c:justdance:Category:Just Dance 2022", "tn": "Inpf7veChmM", "cat_id": 1},
+            {"id": 5, "title": "w:c:ttgd:Konga Conga Kappa (King Conga) (Beta Mix) - Crypt of the NecroDancer", "tn": "A9DHASsTAk4", "cat_id": 1},
+            {"id": 6, "title": "w:c:fuser-harmonix:Crank That (Soulja Boy)", "tn": "dONAGZZHwEE", "cat_id": 1},
+            {"id": 7, "title": "w:c:ben10:Harlem Shake", "tn": "GYoPh_1Pe6c", "cat_id": 1},
+
+            {"id": 8, "title": "w:c:ttgd:Category:Π", "tn": "azu_INLYOXw", "cat_id": 2},
+            {"id": 9, "title": "w:c:darkshadows:Category:2", "tn": "rNiIJF6bqCk", "cat_id": 2},
+            {"id": 10, "title": "w:c:dictionary:Category:E", "tn": "6QctvvOQcTw", "cat_id": 2},
+            {"id": 11, "title": "w:c:superpower-list:Category:A", "tn": "fjaSZN1ZrwI", "cat_id": 2},
+            
+            {"id": 12, "title": "w:c:pt-br.silvaarmando:Category:Duas Noites com Eduardo", "tn": "uH-s8yw-QVM", "cat_id": 3},
+            {"id": 13, "title": "w:c:gametoons-reloaded:Category:Garten of Banban", "tn": "uEWpheVfRFI", "cat_id": 3},
+            {"id": 14, "title": "w:c:vavr:Category:Yume 2kki", "tn": "Dy9Ulp0syLA", "cat_id": 3},
+            {"id": 15, "title": "w:c:vgmrevolution:Category:OMORI", "tn": "6miUqUTBwhk", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Frequently ripped tracks without pages on the SiIva wiki"},
+            {"id": 1, "title": "Dance-related sources"},
+            {"id": 2, "title": "Single-character games on SiIvaGunner"},
+            {"id": 3, "title": "Indie horror games"}
+        ]
     }
 }
