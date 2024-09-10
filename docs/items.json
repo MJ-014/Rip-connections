@@ -886,5 +886,37 @@
             {"id": 2, "title": "Single-character games on SiIvaGunner"},
             {"id": 3, "title": "Indie horror games"}
         ]
+    },
+    
+    "11/8/2024": {
+        "label": "The playlist does not exist.",
+        "items": [
+            {"id": 0, "title": "User:Keyher/Suneo's Bragging Theme", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "User:ArchieGoldRips/Sandbox/Underworld Map Fusion bonus parts!!", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "User:ArchieGoldRips/Rip_ideas/Slider (NTSC-J Mix) - Super Mario 64 DS", "tn": "", "cat_id": 0},
+            {"id": 3, "title": "User:Ellie53real/Rips featuring Nichijou", "tn": "", "cat_id": 0},
+            
+            {"id": 4, "title": "User:CYLITM/Opening Movie (OST Version) - Eek! The Cat", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "User:ArchieGoldRips/Rip_ideas/Klungo's Theme (Beta Mix) - Banjo-Tooie", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "User:ArchieGoldRips/Rip_ideas/Perplexing Storm   Pikmin 2 New Year", "tn": "", "cat_id": 1},
+            {"id": 7, "title": "User:Minindo/Undertale", "tn": "", "cat_id": 1},
+
+            {"id": 8, "title": "User:Rickhenrique/That one Jonh Tay's Joke", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "User:Mick the Squirrel/Shop Fusion Collab (Drive folder)/P18 - FNF Hypno s Lullaby", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "User:CoolJ4334", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "User:ArchieGoldRips/Super Monkey Ball Universe: Final Mix", "tn": "", "cat_id": 2},
+            
+            {"id": 12, "title": "User:ArchieGoldRips/Rip_ideas/Phases of Water - A Plumber For All Seasons", "tn": "", "cat_id": 3},
+            {"id": 13, "title": "User:ArchieGoldRips/Rip_ideas/Data Select (Sonic Mega Collection) - Sonic the Hedgehog 3 & Knuckles", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "User:Notcreepypasta/0² Battle - Super Smash Bros. UItimate", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "User:Overcast07/Trailer Sting (Beta Mix) (Beta Mix) (Beta Mix) (Beta Mix) (Beta Mix) (Beta Mix) (Beta Mix) (Beta Mix 8", "tn": "", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Pages related to anime"},
+            {"id": 1, "title": "Undertale"},
+            {"id": 2, "title": "Friday Night Funkin"},
+            {"id": 3, "title": "Rips that exist"}
+        ]
     }
 }
