@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
 // import { CookieService } from 'ngx-cookie-service';
 
 interface ConnectionItem {
@@ -17,7 +18,7 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-  // constructor(public cookieGuy: CookieService) { }
+  constructor(/* public cookieGuy: CookieService,*/ public activatedRoute: ActivatedRoute) { }
 
   Math = Math;
   date = new Date(Date.now());
@@ -43,6 +44,17 @@ export class GameComponent {
   hovers: string = '';
 
   async ngOnInit() {
+    this.activatedRoute.queryParamMap.subscribe((params) => {
+      const dateParam = params.get('date');
+      if (dateParam) {
+        let parts = dateParam.split('-');
+        console.log(parts)
+        this.date = new Date(Date.UTC(2024, parseInt(parts[1]) - 1, parseInt(parts[0])));
+        console.log(this.date.getUTCDate())
+        console.log(this.date.getDate())
+      }
+    });
+
     var response = await fetch('https://raw.githubusercontent.com/MJ-014/Rip-connections/main/docs/items.json', { method: 'GET' });
     this.itemsData = await response.json();
     this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
