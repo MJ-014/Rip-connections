@@ -48,10 +48,7 @@ export class GameComponent {
       const dateParam = params.get('date');
       if (dateParam) {
         let parts = dateParam.split('-');
-        console.log(parts)
         this.date = new Date(Date.UTC(2024, parseInt(parts[1]) - 1, parseInt(parts[0])));
-        console.log(this.date.getUTCDate())
-        console.log(this.date.getDate())
       }
     });
 
