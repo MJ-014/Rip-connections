@@ -918,5 +918,37 @@
             {"id": 2, "title": "Friday Night Funkin"},
             {"id": 3, "title": "Rips that exist"}
         ]
+    },
+    
+    "12/8/2024": {
+        "label": "ALERT: connections are reaching dangerous levels. Playlist is suffering. Be careful out there.",
+        "items": [
+            {"id": 0, "title": "Category:Jet Set Radio?oldid=51467", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "Deceit - Wadanohara and the Great Blue Sea?oldid=212989", "tn": "DAJNKXUirmY", "cat_id": 0},
+            {"id": 2, "title": "Moonsong (JP Version) - Cave Story?oldid=405164", "tn": "tpnnRGFsRJU", "cat_id": 0},
+            {"id": 3, "title": "File:Graffiti_soul.png", "tn": "", "cat_id": 0},
+            
+            {"id": 4, "title": "User:Arthur10123/good music", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "File:ROM Hack & Mod Day promo.png", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "Super Robot Battle! - Robotrek", "tn": "X_UiBwSz1o8", "cat_id": 1},
+            {"id": 7, "title": "Message_Wall:Teh hacks sparta 2", "tn": "", "cat_id": 1},
+
+            {"id": 8, "title": "User:Overcast07/sandbox6?direction=prev&oldid=212637", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "NecroSLAMtasia", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "File:Cirno's Frog Freeze.jpg", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "Kirbio", "tn": "", "cat_id": 2},
+            
+            {"id": 12, "title": "User:Rickhenrique/That one Jonh Tay's Joke", "tn": "", "cat_id": 3},
+            {"id": 13, "title": "User:Notcreepypasta/Rips featuring Emma Essex", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "User:Keyher/Rock My Forum Archive", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "w:c:vavr:house - bear", "tn": "", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Vandalism"},
+            {"id": 1, "title": "Hacking"},
+            {"id": 2, "title": "Touhou"},
+            {"id": 3, "title": "LapFox Trax"}
+        ]
     }
 }
