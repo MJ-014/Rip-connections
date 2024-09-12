@@ -957,7 +957,7 @@
         "items": [
             {"id": 0, "title": "Special:GoToInterwiki/wikipedia: SiIvaGunner", "tn": "", "cat_id": 0},
             {"id": 1, "title": "Special:GoToInterwiki/wikipedia: There I Ruined It", "tn": "", "cat_id": 0},
-            {"id": 2, "title": "Special:GoToInterwiki/wikipedia: "Weird_Al" Yankovic", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "Special:GoToInterwiki/wikipedia: \"Weird_Al\" Yankovic", "tn": "", "cat_id": 0},
             {"id": 3, "title": "Special:GoToInterwiki/wikipedia: The Rutles", "tn": "", "cat_id": 0},
             
             {"id": 4, "title": "Special:GoToInterwiki/wikipedia: Inspector Gadget", "tn": "", "cat_id": 1},
