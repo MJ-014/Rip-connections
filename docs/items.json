@@ -982,5 +982,37 @@
             {"id": 2, "title": "2018 SiIva memes"},
             {"id": 3, "title": "Contributors"}
         ]
+    },
+    
+    "14/8/2024": {
+        "label": "remember rip connections? the game that ended on september 6?",
+        "items": [
+            {"id": 0, "title": "User:SSQMinky", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "User:Atvelonis", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "User:Lady Lostris", "tn": "", "cat_id": 0},
+            {"id": 3, "title": "User:Joke-Explainer 7000", "tn": "", "cat_id": 0},
+            
+            {"id": 4, "title": "User:AAAAAAidan", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "User:SpectrumPenguin", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "User:Aps17", "tn": "", "cat_id": 1},
+            {"id": 7, "title": "User:Peacock Roy", "tn": "", "cat_id": 1},
+
+            {"id": 8, "title": "User:Melly-sa Doggerson", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "User:AgnesMoorehead", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "User:Random guy with waddle dee pfp", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "User:ZiadElwan61", "tn": "", "cat_id": 2},
+            
+            {"id": 12, "title": "User:123zc", "tn": "", "cat_id": 3},
+            {"id": 13, "title": "User:TheConservativeYoshi", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "User:Smol nozomi gaming", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "User:Nice4444_9", "tn": "", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Differently designed userpages"},
+            {"id": 1, "title": "Birds"},
+            {"id": 2, "title": "Redirects"},
+            {"id": 3, "title": "Users with exactly 22 edits"}
+        ]
     }
 }
