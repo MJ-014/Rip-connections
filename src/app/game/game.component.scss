@@ -28,6 +28,11 @@
 }
 
 #game-window {
+    #date-select {
+        display: flex;
+        justify-content: center;
+    }
+
     #playlist {
         display: flex;
         text-decoration: none !important;
@@ -169,11 +174,14 @@
                 span { font-size: 18px; }
             }
 
-            #submit {
+            .middle-button {
                 margin: 0 15px;
                 height: 60px;
 
-                span { font-size: 23px; }
+                span {
+                    font-size: 23px;
+                    font-weight: bold;
+                }
             }
         }
 

@@ -9,8 +9,10 @@
             <div id="playlist-logo"><img src="./youtube_logo.svg"></div>
             <div id="playlist-text">Today's<br>Playlist</div>
         </a>
-        @if (todayData.label) {
-            <div id="label">{{todayData.label}}</div>
+        @if (todayData) {
+            @if (todayData.label) {
+                <div id="label">{{todayData.label}}</div>
+            }
         }
 
         @for (doneRow of doneRows; track $index) {
@@ -34,44 +36,56 @@
             </div>
         </div>
         }
-
-        @for (row of rows; track $index) {
-        <div class="item-row">
-            @for (item of row; track item.id) {
-            <div class="item" [id]="item.id" (click)="onItemClicked(item.id)" (mouseover)="hovers = item.title" (contextmenu)="onItemRightClick()" [class.active-item]="isActive(item.id)">
-                @if (enableThumbnails.checked) {
-                    <img [src]="'https://i.ytimg.com/vi/' + item.tn + '/mqdefault.jpg'" draggable="false">
+        @if (nonExistent) {
+            <div id="date-select"><input id="date-input" [value]="today" type="date"></div>                    
+        } @else {
+            @for (row of rows; track $index) {
+            <div class="item-row">
+                @for (item of row; track item.id) {
+                <div class="item" [id]="item.id" (click)="onItemClicked(item.id)" (mouseover)="hovers = item.title" (contextmenu)="onItemRightClick()" [class.active-item]="isActive(item.id)">
+                    @if (enableThumbnails.checked) {
+                        <img [src]="'https://i.ytimg.com/vi/' + item.tn + '/mqdefault.jpg'" draggable="false">
+                    }
+                    <span [style.font-size]="((item.title.length*-0.063) + 18.26)+'px'">{{item.title}}</span>
+                </div>
                 }
-                <span [style.font-size]="((item.title.length*-0.063) + 18.26)+'px'">{{item.title}}</span>
             </div>
             }
-        </div>
         }
 
         <div id="buttons">
             <div id="top-buttons">
-                @if (!beaten) {
-                    <div (click)="shuffle()"><span>Shuffle</span></div>
-                    <div (click)="submit()" id="submit"><span>Submit</span></div>
-                    <div (click)="deselect()"><span>Deselect</span></div>
-                }
                 @if (beaten) {
-                    <div (click)="share()" id="submit"><span>Share</span></div>
+                    @if (showPrev) { <div (click)="prev()"><span>Previous</span></div> }
+                    @else { <div (click)="shuffle()"><span>Select date</span></div> }
+                    <div (click)="share()" class="middle-button"><span>Share</span></div>
+                    @if (showNext) { <div (click)="next()"><span>Next</span></div> }
+                    @else { <div (click)="shuffle()"><span>Select date</span></div> }
+                } @else {
+                    @if (nonExistent) {
+                        <div (click)="submitDate()" class="middle-button"><span>Go</span></div>                    
+                    } @else {
+                        <div (click)="shuffle()"><span>Shuffle</span></div>
+                        <div (click)="submit()" class="middle-button"><span>Submit</span></div>
+                        <div (click)="deselect()"><span>Deselect</span></div>
+                    }
                 }
             </div>
 
             <div id="bottom-checkboxes" [style.display]="beaten ? 'none' : 'flex'">
-                    <div>
-                        <input #enableThumbnails (change)="thumbnailsEnabled = enableThumbnails.checked;" type="checkbox" name="enable-thumbnails"
-                            id="enable-thumbnails" />
-                        <label for="enable-thumbnails">Enable thumbnails</label>
-                    </div>
+                <div>
+                    <input #enableThumbnails (change)="thumbnailsEnabled = enableThumbnails.checked;" type="checkbox" name="enable-thumbnails"
+                        id="enable-thumbnails" />
+                    <label for="enable-thumbnails">Enable thumbnails</label>
+                </div>
 
+                @if (!nonExistent) {
                     <div>
                         <input #wikimode (change)="wikiModeEnabled = wikimode.checked" type="checkbox" name="enable-wiki-mode"
                             id="enable-wiki-mode" />
                         <label for="enable-wiki-mode">Wiki Mode <span style="font-size: 15px;">(RMB)</span></label>
                     </div>
+                }
             </div>
 
             <div id="lives">

@@ -1,5 +1,5 @@
-import { Component, inject } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ChangeDetectorRef, Component } from '@angular/core';
+import { ActivatedRoute, Router } from '@angular/router';
 // import { CookieService } from 'ngx-cookie-service';
 
 interface ConnectionItem {
@@ -18,9 +18,10 @@ interface ConnectionItem {
 })
 export class GameComponent {
   // Cokies were commented out until functionality is fixed.
-  constructor(/* public cookieGuy: CookieService,*/ public activatedRoute: ActivatedRoute) { }
+  constructor(/* public cookieGuy: CookieService,*/ public activatedRoute: ActivatedRoute, public router: Router, public cdRef: ChangeDetectorRef) { }
 
   Math = Math;
+  today = new Date(Date.now()); 
   date = new Date(Date.now());
 
   doneRows: ConnectionItem[][] = [];
@@ -31,9 +32,13 @@ export class GameComponent {
   answers: string[][] = [];
   wikiIconPosition: { x: number, y: number } = { x: 0, y: 0 };
 
+  showPrev: boolean = false;
+  showNext: boolean = false;
+
   isOneAway: boolean = false;
   isCopied: boolean = false;
   beaten: boolean = false;
+  nonExistent: boolean = false;
   thumbnailsEnabled: boolean = false;
   wikiModeEnabled: boolean = false;
   dropDownsOpened: boolean[] = [false, false, false, false];
@@ -56,13 +61,22 @@ export class GameComponent {
     this.itemsData = await response.json();
     this.todayData = this.itemsData[this.date.getUTCDate() + '/' + this.date.getUTCMonth() + '/' + this.date.getUTCFullYear() as keyof typeof this.itemsData];
 
-    for (let item of this.todayData.items) {
-      this.rows[~~((item.id) / 4)]?.push(item);
+    this.showNext = (this.date.getUTCDate() == 12 && this.date.getUTCMonth() == 8) ? false : true;
+    this.showPrev = (this.date.getUTCDate() == 15 && this.date.getUTCMonth() == 7) ? false : true;
+
+    if (this.todayData) {
+      this.nonExistent = false;
+
+      for (let item of this.todayData.items) {
+        this.rows[~~((item.id) / 4)]?.push(item);
+      }
+
+      this.playlist()
+
+      this.shuffle()
+    } else {
+      this.nonExistent = true;
     }
-
-    this.playlist()
-
-    this.shuffle()
   }
 
   onItemClicked(id: number): void {
@@ -80,6 +94,22 @@ export class GameComponent {
         }
       }
     }
+  }
+
+  next() {
+    let tomorrow = new Date(Date.UTC(2024, this.date.getUTCMonth(), this.date.getUTCDate()));
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    this.router.navigate(['/'], { queryParams: { date: `${tomorrow.getUTCDate()}-${tomorrow.getUTCMonth() + 1}` } }).then(() => {
+      window.location.reload();
+    });
+  }
+
+  prev() {
+    let yesterday = new Date(Date.UTC(2024, this.date.getUTCMonth(), this.date.getUTCDate()));
+    yesterday.setDate(yesterday.getDate() - 1);
+    this.router.navigate(['/'], { queryParams: { date: `${yesterday.getUTCDate()}-${yesterday.getUTCMonth() + 1}` }, onSameUrlNavigation: 'reload' }).then(() => {
+      window.location.reload();
+    });
   }
 
   share() {
@@ -145,13 +175,23 @@ export class GameComponent {
     }
   }
 
+  submitDate() {
+    let input: any = document.getElementById('date-input')
+
+    if (input) {
+      input = input.value.split('-')
+      this.router.navigate(['/'], { queryParams: { date: input[2] + '-' + input[1] }, onSameUrlNavigation: 'reload' }).then(() => {
+        window.location.reload();
+      });
+    }
+  }
+
   saveAnswers() {
     let answerToPush: string[] = []
     for (let activeItem of this.activeItems) {
       answerToPush.push(this.doneRowColors[activeItem.cat_id].emoji);
     }
     this.answers.push(answerToPush);
-    console.log(this.answers)
   }
 
   getCatTitle(cat_id: number): string {
