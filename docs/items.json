@@ -1046,5 +1046,37 @@
             {"id": 2, "title": "Events focused on one game"},
             {"id": 3, "title": "Curse of the Fallen Angel characters"}
         ]
+    },
+    
+    "16/8/2024": {
+        "label": "The Final Weird Connections",
+        "items": [
+            {"id": 0, "title": "Special:GoToInterwiki/google: https://steamcommunity.com/app/391540/discussions/0/1727575977539724247/", "tn": "", "cat_id": 0},
+            {"id": 1, "title": "Special:GoToInterwiki/google: https://www.redbubble.com/i/sticker/derpy-omori-sunny-plush-funny-by-reiiayanamii/118884977.EJUG5", "tn": "", "cat_id": 0},
+            {"id": 2, "title": "Special:GoToInterwiki/google: https://gamerant.com/donkey-kong-country-2-cheat-codes/", "tn": "", "cat_id": 0},
+            {"id": 3, "title": "Special:GoToInterwiki/google: https://mother3.fobby.net/", "tn": "", "cat_id": 0},
+            
+            {"id": 4, "title": "Special:GoToInterwiki/mariowiki:List of references on the Internet", "tn": "", "cat_id": 1},
+            {"id": 5, "title": "Special:GoToInterwiki/google: Gallery Aferro Presents Exhibits By Individuals At Angola Prison, Geri Hahn, and SilvaGunner", "tn": "", "cat_id": 1},
+            {"id": 6, "title": "Special:GoToInterwiki/google: https://kotaku.com/this-youtube-channel-is-definitely-the-best-place-to-li-1763800607", "tn": "", "cat_id": 1},
+            {"id": 7, "title": "Special:GoToInterwiki/google: https://www.dailydot.com/unclick/yoshi-tax-fraud-meme/", "tn": "", "cat_id": 1},
+
+            {"id": 8, "title": "w:c:sexypedia:The Voice Inside Your Head", "tn": "", "cat_id": 2},
+            {"id": 9, "title": "Special:GoToInterwiki/google: https://www.whosampled.com/Lady-(Rapper)/Yankin", "tn": "", "cat_id": 2},
+            {"id": 10, "title": "Special:GoToInterwiki/google: https://www.last.fm/music/john+notwoodman", "tn": "", "cat_id": 2},
+            {"id": 11, "title": "Special:GoToInterwiki/commons:File:Sven Haltmann (-73) (2312949194).jpg", "tn": "", "cat_id": 2},
+            
+            {"id": 12, "title": "CONNECTION - The SilvaGunner Christmas Comeback Crisis Original Soundtrack", "tn": "RxdaMRfAYU4", "cat_id": 3},
+            {"id": 13, "title": "Special:GoToInterwiki/google: https://www.songtexte.com/songtext/siivagunner/the-race-for-a-good-connection-h3fa7d0b.html", "tn": "", "cat_id": 3},
+            {"id": 14, "title": "Special:GoToInterwiki/google: https://thebluegrasssituation.com/read/the-rainbow-connection-at-40-paul-williams-reflects-on-kermit-the-frogs-banjo-classic/", "tn": "", "cat_id": 3},
+            {"id": 15, "title": "Special:GoToInterwiki/google: https://www.nytimes.com/games/connections", "tn": "", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Games that have Goodbye to a World arrangements on SiIvaGunner"},
+            {"id": 1, "title": "Articles that reference SiIvaGunner"},
+            {"id": 2, "title": "Villainous characters on SiIvaGunner"},
+            {"id": 3, "title": "Connections"}
+        ]
     }
 }
