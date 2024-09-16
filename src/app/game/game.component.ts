@@ -21,7 +21,7 @@ export class GameComponent {
   constructor(/* public cookieGuy: CookieService,*/ public activatedRoute: ActivatedRoute, public router: Router, public cdRef: ChangeDetectorRef) { }
 
   Math = Math;
-  today = new Date(Date.now()); 
+  today = new Date(Date.now());
   date = new Date(Date.now());
 
   doneRows: ConnectionItem[][] = [];
@@ -53,7 +53,7 @@ export class GameComponent {
       const dateParam = params.get('date');
       if (dateParam) {
         let parts = dateParam.split('-');
-        this.date = new Date(Date.UTC(2024, parseInt(parts[1]) - 1, parseInt(parts[0])));
+        this.date = new Date(Date.UTC(parseInt(parts[0]), parseInt(parts[2]) - 1, parseInt(parts[1])));
       }
     });
 
@@ -180,7 +180,7 @@ export class GameComponent {
 
     if (input) {
       input = input.value.split('-')
-      this.router.navigate(['/'], { queryParams: { date: input[2] + '-' + input[1] }, onSameUrlNavigation: 'reload' }).then(() => {
+      this.router.navigate(['/'], { queryParams: { date: input[0] + '-' + input[2] + '-' + input[1] }, onSameUrlNavigation: 'reload' }).then(() => {
         window.location.reload();
       });
     }

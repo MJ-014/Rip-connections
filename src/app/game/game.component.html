@@ -9,9 +9,12 @@
             <div id="playlist-logo"><img src="./youtube_logo.svg"></div>
             <div id="playlist-text">Today's<br>Playlist</div>
         </a>
-        @if (todayData) {
+        @if (nonExistent) {
+            <div id="label">Thank you for playing Rip Connections! Daily (normal rip) connections may return in the future, but for the time being, feel free to explore previous days:</div>
+        }
+        @else if (todayData) {
             @if (todayData.label) {
-                <div id="label">{{todayData.label}}</div>
+            <div id="label">{{todayData.label}}</div>
             }
         }
 
@@ -36,6 +39,7 @@
             </div>
         </div>
         }
+
         @if (nonExistent) {
             <div id="date-select"><input id="date-input" [value]="today" type="date"></div>                    
         } @else {
