@@ -1,4 +1,35 @@
 {
+    "22/1/1986": {
+        "label": "Today's puzzle is designed by: xxxx####",
+        "items": [
+            {"id": 0, "title": "␣", "tn": "IpEmO3XZUzA", "cat_id": 0},
+            {"id": 1, "title": "video yurkey - Yume Nikki", "tn": "kNg2oB-e8tk", "cat_id": 0},
+            {"id": 2, "title": "FACE - Yume Nikki", "tn": "-C0XuOBOsCw", "cat_id": 0},
+            {"id": 3, "title": "Dum loopy thing - Spooky's Jump Scare Mansion: HD Renovation", "tn": "Js2kZug4FB0", "cat_id": 0},
+            
+            {"id": 4, "title": "Full Story [Books I-IV] - The SiIvaGunner Halloween Horror Special Part VI: The Cult of Proto", "tn": "ipJEIjkHiF0", "cat_id": 1},
+            {"id": 5, "title": "Ransomware - Undertale 2", "tn": "I7CsixoEing", "cat_id": 1},
+            {"id": 6, "title": "(SIIVA AI LOG: 2017-11-1)", "tn": "NrV7Rjz0dHk", "cat_id": 1},
+            {"id": 7, "title": "Robo Gang Johnny (Beta Mix) - Chrono Trigger", "tn": "uI9lgY-6SXU", "cat_id": 1},
+
+            {"id": 8, "title": "SiIvaGunner Smash UItimate Tournament Top 6 (Beta Mix) - Part 1", "tn": "5rsOf_XwkSY", "cat_id": 2},
+            {"id": 9, "title": "Breakdown - JoJo's Bizarre Adventure: Eyes of Heaven", "tn": "wITrJrMux-I", "cat_id": 2},
+            {"id": 10, "title": "One Winged Angel but with Classic Internet Era Memes", "tn": "M5CeQG1YfEQ", "cat_id": 2},
+            {"id": 11, "title": "O2 in Love - MOTHER 3", "tn": "mhSAKz22h0k", "cat_id": 2},
+            
+            {"id": 12, "title": "Main Theme - Magical Mathematics", "tn": "cAmOgggXn8M", "cat_id": 3},
+            {"id": 13, "title": "dinosaur13.wav - Portal", "tn": "SPVIiT3HZoU", "cat_id": 3},
+            {"id": 14, "title": "Main Theme - 9:05", "tn": "yNZTxifhGF4", "cat_id": 3},
+            {"id": 15, "title": "Dire, Dire Docks (In-Game Version) - Super Mario 64", "tn": "D3i-us8MAuc", "cat_id": 3}
+        ],
+
+        "groups": [
+            {"id": 0, "title": "Yume NikKi rips"},
+            {"id": 1, "title": "ViruSes"},
+            {"id": 2, "title": "Final FantAsy rips"},
+            {"id": 3, "title": "Rips related to Math"}
+        ]
+    },
     "14/7/2024": {
         "items": [
             {"id": 0, "title": "Merry-Go-Round (Beta Mix) - Super Mario 64", "tn": "13P3m2fE_-w", "cat_id": 0},
