@@ -697,7 +697,7 @@
     },
     
     "22/1/1986": {
-        "label": "Today's puzzle is designed by: xxxx####",
+        "label": "Today's puzzle is designed by: xxxx#####",
         "items": [
             {"id": 0, "title": "␣", "tn": "IpEmO3XZUzA", "cat_id": 0},
             {"id": 1, "title": "video yurkey - Yume Nikki", "tn": "kNg2oB-e8tk", "cat_id": 0},
